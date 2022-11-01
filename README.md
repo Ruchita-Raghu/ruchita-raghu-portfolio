@@ -78,5 +78,11 @@ Finance Club, Reiman School of Finance, Daniels College of Business
 <li> Microsoft </li>
 <li> Google </li>
 <li> Sql, python... </li>
+<br>
+<h3> GLOBAL EXPERIENCE </h3>
+<li> Study Abroad </li>
+<li> French Exchange </li>
+<li> Work in MNCs </li>
+
 <h3> LINKEDIN PROFILE </h3>
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
