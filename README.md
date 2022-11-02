@@ -18,7 +18,7 @@
 <p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces </p>
 
 <h4> Internships </h4>
-<li>> EY FSO Technology Risk Consulting Intern (Ernst & Young US, LLP) </li>
+<li> EY FSO Technology Risk Consulting Intern (Ernst & Young US, LLP) </li>
 <li> Corporate Audit Intern (Arrow Electronics) </li>
 <li> Data Analytics Intern (Flow Marketing) </li>
 <li> Marketing Intern (Fight Oar Die) </li>
@@ -46,3 +46,4 @@
 <h3> LINKEDIN PROFILE </h3>
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
 <h3> RESUME </h3>
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ruchita%20-%20Resume%20senior.pdf">Ruchita Raghunandan Resume</a>
