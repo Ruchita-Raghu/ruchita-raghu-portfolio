@@ -14,75 +14,35 @@
 <li> Subjects: Accountancy, Business Studies, Economics, Mathematics, English </li>
 <br>
 <h3> WORK EXPERIENCE </h3>
+<p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
+<p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces </p>
 
 <h4> Internships </h4>
-<b> EY FSO Technology Risk Consulting Intern </b>
-<p> Ernst & Young US, LLP, Denver, Colorado </p>
-<p> June 2022 - August 2022 </p>
-
-<b> Corporate Audit Intern </b>
-<p> Arrow Electronics, Denver, Colorado </p>
-<p> June 2021 - September 2021 </p>
-
-<b> Data Analytics Intern </b>
-<p> Flow Marketing, Denver, Colorado </p>
-<p> June 2020 - September 2020 </p>
-
-<b> Marketing Intern </b>
-<p> Fight Oar Die, Denver, Colorado </p>
-<p> December 2019 - March 2020 </p>
+<li>> EY FSO Technology Risk Consulting Intern (Ernst & Young US, LLP) </li>
+<li> Corporate Audit Intern (Arrow Electronics) </li>
+<li> Data Analytics Intern (Flow Marketing) </li>
+<li> Marketing Intern (Fight Oar Die) </li>
 
 <h4> University positions </h4>
-<b> Microsoft Senior Teaching Assistant </b>
+<li> Microsoft Senior Teaching Assistant (Daniels College of Business) </li>
+<li> Daniel Ambassador Team (Daniels College of Business) </li>
+<li> Athletic Tutor (Daniels College of Business, Atheltics Department) </li>
+<li> Campus Tour Guide (Undergradate Admissions Office) </li>
 
-Daniels College of Business
-<p> September 2020 - Present </p>
+<h4> Leadership positions </h4>
+<li> President (Finance Club, Reiman School of Finance) </li>
+<li> Events Chair (Finance Club, Reiman School of Finance) </li>
+<li> International Student Affairs Chair (Finance Club, Reiman School of Finance) </li>
+<li> Director of Diversity (Undergraduate Women in Business) </li>
 <br>
-<b> Daniel Ambassador Team </b>
-
-Daniels College of Business
-<p> February 2021 - Present </p>
-<br>
-<b> Athletic Tutor </b>
-
-Daniels College if Business, Atheltics Department
-<p> August 2022 - present </p>
-<br>
-<b> Campus Tour Guide </b>
-
-Undergradate Admissions Office
-<p> January 2020 - August 2020 </p>
-<br>
-<h5> Leadership positions </h5>
-<b> President </b>
-
-Finance Club, Reiman School of Finance, Daniels College of Business
-<p> August 2021 - June 2022 </p>
-<br>
-<b> Events Chair </b>
-
-Finance Club, Reiman School of Finance, Daniels College of Business
-<p> August 2020 - July 2021 </p>
-<br>
-<b> International Student Affairs Chair </b>
-
-Finance Club, Reiman School of Finance, Daniels College of Business
-<p> September 2019 - July 2020 </p>
-<br>
-<b> Director of Diversity </b>
-
-Finance Club, Reiman School of Finance, Daniels College of Business
-<p> September 2019 - July 2020 </p>
 <br>
 <h3> SKILLS & CERTIFICATIONS </h3>
-<li> Microsoft </li>
-<li> Google </li>
-<li> Sql, python... </li>
+<li> Microsoft Office Specialist Associate 2019 - Advanced Excel, Excel, Word, PowerPoint, Access </li>
+<li> Certified in Google Analytics </li>
+<li> Certificate of Completion - Introduction to Change Management </li>
+<li> Proficiency in using SQL, SQL Server (SSMS, SSAS, SSIS), Visual Studio, PowerBI, Python, R, VBA, Zoho Analytics </li>
 <br>
-<h3> GLOBAL EXPERIENCE </h3>
-<li> Study Abroad </li>
-<li> French Exchange </li>
-<li> Work in MNCs </li>
-
+<br>
 <h3> LINKEDIN PROFILE </h3>
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
+<h3> RESUME </h3>
