@@ -2,7 +2,7 @@
 #### Microsoft Office Specialist Team, Daniels College of Business, University of Denver
 #### Microsoft Senior & Junior Teaching Assistant, September 2020 - June 2023
 
-##### EXECUTIVE SUMMARY
+##### SUMMARY
 As a Microsoft TA at my university, I was responsible for teaching class sizes of about 30-40 students. Our Microsoft Certification program was deisgned to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave a certain way, which formulas to use, where in the real world are they applied etc. I also helped grade student assignments, proctor certification exams, and mentor TAs in training.
 
 This role developed my public speaking, communication, inter-personal, people management, critical thinking, and problem solving skills.
@@ -11,12 +11,17 @@ This role developed my public speaking, communication, inter-personal, people ma
 <i> Here are some methodologies I devised to explain formulas to beginners in Excel - </i>
 
 
-[<img src="https://user-images.githubusercontent.com/116829793/199369370-53e91d06-92cc-4dc1-9b3f-33a7e3d9db7a.JPG">](#Capture)
+[<img src="https://user-images.githubusercontent.com/116829793/199546916-350b1d78-3600-4e18-b042-0b138a54334b.png" height="350" width="450">](#Capture)
+[<img src="https://user-images.githubusercontent.com/116829793/199547119-0dab1465-75fe-4441-a2a7-1fac5c9cadc0.png" height="350" width="450">](#Capture1)
+[<img src="https://user-images.githubusercontent.com/116829793/199547184-276be476-bb62-4282-bb15-e3578e51886e.png" height="350" width="450">](#Capture2)
 <br>
-<i> Analogies and applications of Excel formulas - </i>
-
-
-
+<br>
+<i> Analogies and applications of Microsoft tools - </i>
+<li> Using Excel for data analysis. Data could be about sales, HR, audits, marketing research, stocks, expenses etc. </li>
+<li> PowerPoint presentations are linked to results on Excel sheets. You can link both to for charts to automatically update in the presentation. </li>
+<li> Vlookup has some limitations, use the alternatives like INDEX/MATCH. </li>
+<li> Build a good resume by using appropriate formatting, indentation, text styles, and lists in Word </li>
+<br>
 <br>
 <i> Problem solving and troubleshooting - </i>
 <pre> <p> <b> Student Question: </b> My formula is showing an error! </p>
@@ -32,6 +37,7 @@ This role developed my public speaking, communication, inter-personal, people ma
                 Try using Text to Columns on the Data Tab.
                 Let's try another formula.
                 Let's Google the issue. </pre>
+<br>
 <br>
 <i> People Management - </i>
 <div> A role similar to that of a teacher or professor. I had to maintain student engagement in class, answer difficult questions, manage student emails (especially during the pandemic with increased protocols), provide additional support to students in need etc. </div>
