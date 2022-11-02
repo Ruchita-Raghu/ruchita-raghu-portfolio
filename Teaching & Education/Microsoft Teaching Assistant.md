@@ -11,7 +11,7 @@ This role developed my public speaking, communication, inter-personal, people ma
 <i> Here are some methodologies I devised to explain formulas to beginners in Excel - </i>
 
 
-
+[<img src="https://user-images.githubusercontent.com/116829793/199369370-53e91d06-92cc-4dc1-9b3f-33a7e3d9db7a.JPG">](#Capture)
 <br>
 <i> Analogies and applications of Excel formulas - </i>
 
@@ -37,5 +37,8 @@ This role developed my public speaking, communication, inter-personal, people ma
 <div> A role similar to that of a teacher or professor. I had to maintain student engagement in class, answer difficult questions, manage student emails (especially during the pandemic with increased protocols), provide additional support to students in need etc. </div>
 <div> I learned how to communicate with people coming from various different backgrounds. My work taught me how to cater to multiple learning styles in one class. </div>
 
-##### ADVANCED REVISION METHODS
-Kahoot, notes, etc.
+##### REVISION METHODS
+As part of maintaining class engagement and provide "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
+
+Excel Kahoot
+PowerPoint Kahoot
