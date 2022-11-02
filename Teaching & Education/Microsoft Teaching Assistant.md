@@ -40,5 +40,5 @@ This role developed my public speaking, communication, inter-personal, people ma
 ##### REVISION METHODS
 As part of maintaining class engagement and provide "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
 
-Excel Kahoot
-PowerPoint Kahoot
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a>
