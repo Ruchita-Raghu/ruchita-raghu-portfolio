@@ -48,6 +48,16 @@ Finance and Business Analytics student with experience in financial/operational 
 <li> Proficiency in using SQL, SQL Server (SSMS, SSAS, SSIS), Visual Studio, PowerBI, Python, R, VBA, Zoho Analytics </li>
 <br>
 <h2> Samples from work </h2>
+<p> My biggest lesson from all work experiences has been an effort to learn. No matter the rank or role, learning should never stop. I found it highly important and useful to take notes regarding everything I do. It starts with learning about the company through internal sites, meeting minutes, informational interviews and networking, and self-educating activities. </p>
+<li> One of my companies followed EOS, Entrepreneurial Operating System, a people not computer operating system. Just to understand the system, its benefits, and how the company worked with it, I created a notes sheet. </li>
+<img src="https://user-images.githubusercontent.com/116829793/201731952-38f41f90-d0f5-49cb-a649-52ee2ab00272.png">
+<li> Learning platforms at organizations are really beneficial for our professional skills development. During internships, I completed courses and obtained certifications relating to my work. Find my certifications here! </li>
+<li> Notes during networking are vital to value someone's time and advice. One of the companies I was wanting to join had a virtual networking event. I made use of the event to best understand the organization and its people. Here is how I encourage everyone to keep the networking effort going. </li>
+<img src="https://user-images.githubusercontent.com/116829793/201734814-4ef17f72-204a-41f8-91d4-b609bb889fac.png" height="250" width="250">
+<img src="https://user-images.githubusercontent.com/116829793/201734989-8ac477df-9bb2-4ff6-ad53-b62a9ba09fed.png" height="250" width="350">
+<img src="https://user-images.githubusercontent.com/116829793/201735794-b8e030f1-ee40-4795-b460-e96c27de6768.png" height="250" width="300">
+
+
 
 
 
