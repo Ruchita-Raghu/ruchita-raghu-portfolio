@@ -1,6 +1,7 @@
 # Welcome! My name is Ruchita Raghunandan! Here is a little about me and my work!
 #### I am a senior at the University of Denver, pursuing Bachelors of Science in Business Administration, majoring in Finance and Business Information & Analytics. Find below more about my education, work experience, skills, and interests.
 <br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'>Work Ex</a>
 <h3> BACKGROUND </h3>
 <p> India, US ed, Work ex, Plans for future, General intro, French Exchange, dancer </p>
 <br>
