@@ -1,3 +1,4 @@
+Back To Main Page
 # Work Experience & Career Paths
 <h2> Summary </h2>
 Finance and Business Analytics student with experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. Currently seeking roles in IT Finance to bridge gaps between technology and finance. Proven leadership in facilitating group tasks, teaching students, and running student organizations. Excellent communication, interpersonal skills, with proficiency in four languages. Consistent with stellar academic record and credentials. Constantly looking for new learning opportunities in business, finance, and analytics.
