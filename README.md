@@ -13,7 +13,9 @@
 <li> Percentage - 96.4% </li>
 <li> Subjects: Accountancy, Business Studies, Economics, Mathematics, English </li>
 <br>
-<h3> <a href="[Progess At Work]">WORK EXPERIENCE</a> </h3>
+<h3> WORK EXPERIENCE </h3>
+	
+<a href="/Progress at Work/At Work experinces.html">Learn more here!</a>
 
 <p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
 <p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces </p>
