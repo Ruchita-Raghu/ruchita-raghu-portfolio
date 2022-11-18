@@ -31,3 +31,6 @@
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
 <h3> RESUME </h3>
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ruchita%20-%20Resume%20senior.pdf">Ruchita Raghunandan Resume</a>
+<br>
+<br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
