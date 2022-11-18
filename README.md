@@ -1,7 +1,7 @@
 # Welcome! My name is Ruchita Raghunandan! Here is a little about me and my work!
 #### I am a senior at the University of Denver, pursuing Bachelors of Science in Business Administration, majoring in Finance and Business Information & Analytics. Find below more about my education, work experience, skills, and interests.
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'>Work Ex</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/202765056-0eef701b-f47d-42a2-9fee-ea9fbc8fb68a.png"/> </a>
 <h3> BACKGROUND </h3>
 <p> India, US ed, Work ex, Plans for future, General intro, French Exchange, dancer </p>
 <br>
@@ -20,6 +20,7 @@
 <h3> WORK EXPERIENCE </h3>
 <p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
 <p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces </p>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'>Here are more details!</a>
 <br>
 <h3> LINKEDIN PROFILE </h3>
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
