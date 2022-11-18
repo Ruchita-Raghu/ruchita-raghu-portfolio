@@ -52,5 +52,5 @@ As part of maintaining class engagement and provide "fun" ways of refreshing pre
 
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
 <p> <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a> </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href=''> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
