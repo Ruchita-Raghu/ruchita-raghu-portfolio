@@ -76,7 +76,7 @@ Finance and Business Analytics student with experience in financial/operational 
 <img src="https://user-images.githubusercontent.com/116829793/201735794-b8e030f1-ee40-4795-b460-e96c27de6768.png" height="450" width="500">
 <br>
 <br>
-<a href='[https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths](https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths)'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
 
 
