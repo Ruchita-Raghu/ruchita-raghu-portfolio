@@ -1,7 +1,10 @@
 # TEACHING EXPERIENCES
-#### Microsoft Office Specialist Team, Daniels College of Business, University of Denver
-#### Microsoft Senior & Junior Teaching Assistant, September 2020 - June 2023
 
+### Microsoft Senior & Junior Teaching Assistant, September 2020 - June 2023
+Microsoft Office Specialist Team, Daniels College of Business, University of Denver
+### Athletic Tutor, September 2022 - June 2023
+Daniels College of Business/Athletics Department, University of Denver
+<br>
 ##### SUMMARY
 As a Microsoft TA at my university, I was responsible for teaching class sizes of about 30-40 students. Our Microsoft Certification program was deisgned to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave a certain way, which formulas to use, where in the real world are they applied etc. I also helped grade student assignments, proctor certification exams, and mentor TAs in training.
 
