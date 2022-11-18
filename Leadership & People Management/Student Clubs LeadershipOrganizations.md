@@ -26,3 +26,5 @@ With the Finance Club, I started as the International Student Affairs Chair my f
 <img src="https://user-images.githubusercontent.com/116829793/199853086-4297241c-1917-425a-b13f-15ab460ef876.jpg" />
 <br>
 <p> Find more samples of my work <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20%26%20People%20Management/">here</a>! </p>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md#club-leadership'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+
