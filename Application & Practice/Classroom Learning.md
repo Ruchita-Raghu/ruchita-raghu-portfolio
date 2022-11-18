@@ -9,6 +9,7 @@
 <br>
 <p> SQL </p>
 <br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
 ## PART 2 - BUSINESS CORE
 ### External Business Environment Knowledge
@@ -31,3 +32,4 @@
 <li> 1010 Infographic </li>
 <li> 3140 reports Access </li>
 <li> 2300 report </li>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
