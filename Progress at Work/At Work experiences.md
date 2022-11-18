@@ -38,7 +38,7 @@ Finance and Business Analytics student with experience in financial/operational 
 <p> June 2020 - September 2020 </p>
 <li> Recorded data from fundraisers, social media distribution, tracked donations, assisted program coordinator etc. </li>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 <h2> University Positions </h2>
 <b> Daniel Ambassador Team (Daniels College of Business) </b>
 <p> <b> Campus Tour Guide (Undergradate Admissions Office) </b> </p>
@@ -58,7 +58,7 @@ Finance and Business Analytics student with experience in financial/operational 
 <p> <b> Director of Diversity (Undergraduate Women in Business) </b> </p>
 <li> Learn more about my leadership experiences <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20%26%20People%20Management/Student%20Organizations.md">here</a>! </li>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 <h2> Skills & Certifications </h2>
 <li> Microsoft Office Specialist Associate 2019 - Advanced Excel, Excel, Word, PowerPoint, Access </li>
 <li> Certified in Google Analytics </li>
@@ -76,7 +76,7 @@ Finance and Business Analytics student with experience in financial/operational 
 <img src="https://user-images.githubusercontent.com/116829793/201735794-b8e030f1-ee40-4795-b460-e96c27de6768.png" height="450" width="500">
 <br>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='[https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths](https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths)'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
 
 
