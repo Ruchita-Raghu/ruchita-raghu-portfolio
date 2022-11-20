@@ -3,6 +3,29 @@
 ## PART 1 - ANALYTICS
 #### Python
 As a beginner, I learned the basic usage of Python and enjoyed exploring its use for formatting and statistical purposes. Here are some sample codes I wrote for a class!
+<br>
+ <img src="https://user-images.githubusercontent.com/116829793/202882629-7d941f51-69d8-4437-ad00-86c9018fa2b4.png"> 
+ 
+ <img src="https://user-images.githubusercontent.com/116829793/202882852-231c5cbb-522a-454e-85fa-eb11841132f9.png"> 
+ <img src="https://user-images.githubusercontent.com/116829793/202882928-8384e8d5-d2c2-4dbb-bc08-2edfe6b9d43f.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202882992-55f5641d-e559-4b8b-ab77-15a0cd9d8229.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883196-a5b0a81a-6004-42db-895d-2fcdc37273c8.png">
+
+ <img src="https://user-images.githubusercontent.com/116829793/202883282-a3946fe2-4ca1-4245-adb3-0eda00e767d9.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883296-d5b6b309-12ea-47bc-b7cc-cf07bb8b73f9.png">
+
+ <img src="https://user-images.githubusercontent.com/116829793/202883338-70cef745-b0e9-4439-90f3-bccdef0f2da8.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883342-6c101033-1a49-4881-83b4-3f3dff760ede.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883460-5f452047-90ab-41bb-8a38-54709b98fad0.png">
+
+ <img src="https://user-images.githubusercontent.com/116829793/202883708-7bbd3b2a-079c-46b5-8b73-96ee0015d4c8.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883789-e5dc55c5-439a-4724-bb0f-378ae9bc9ee7.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202883988-7a3668b1-2534-4543-939e-4a97d2f062d4.png">
+
+ <img src="https://user-images.githubusercontent.com/116829793/202884213-66dc0ed0-3244-498d-bb5f-f34db0a07c3a.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202884294-194176aa-ad6a-438b-ab09-1c21f5898284.png">
+ <img src="https://user-images.githubusercontent.com/116829793/202884491-bcf4e153-07ec-4d3f-bb63-0f1635c5b98c.png">
+
 
 
 #### VBA
