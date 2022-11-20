@@ -2,8 +2,10 @@
 
 # Work Experience & Career Paths
 <h2> Summary </h2>
-Finance and Business Analytics student with experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. Currently seeking roles in IT Finance to bridge gaps between technology and finance. Proven leadership in facilitating group tasks, teaching students, and running student organizations. Excellent communication, interpersonal skills, with proficiency in four languages. Consistent with stellar academic record and credentials. Constantly looking for new learning opportunities in business, finance, and analytics.
-
+My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions.
+I have experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. I gained leadership experience facilitating group tasks, teaching students, and running student organizations. I am confident about my excellent communication skills, interpersonal skills,and proficiency in four languages.
+With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. 
+<br>
 <h2> Internship Positions </h2>
 <b> EY FSO Technology Risk Consulting Intern </b>
 <p> Ernst & Young US, LLP </p>
