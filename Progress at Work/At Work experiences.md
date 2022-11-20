@@ -58,7 +58,7 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <p> <b> Events Chair (Finance Club) </b> </p>
 <p> <b> International Student Affairs Chair (Finance Club) </b> </p>
 <p> <b> Director of Diversity (Undergraduate Women in Business) </b> </p>
-<li> Learn more about my leadership experiences <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20%26%20People%20Management/Student%20Organizations.md">here</a>! </li>
+<li> Learn more about my leadership experiences <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md">here</a>! </li>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 <h2> Skills & Certifications </h2>
