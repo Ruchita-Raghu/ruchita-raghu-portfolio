@@ -29,6 +29,6 @@
 <p> Estes Park, Colorado </p>
 <img src ="https://user-images.githubusercontent.com/116829793/202885736-6bbadc29-d841-4954-bce0-ff41db076243.JPG" height=300 width=350>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#fun-experiences-and-snapshots-from-exciting-ventures'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
 
