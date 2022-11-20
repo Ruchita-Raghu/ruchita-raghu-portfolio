@@ -115,9 +115,6 @@ These are some classes I took -
 <li> History - World War I </li>
 <li> Geography - Global Environment Change </li>
 <li> Art History - Images of Culture: Islamic Art and Architecture </li>
-
-<p> Find some of my work from here! </p>
-
 <br>
 <p> The business core classes at Daniels prepare a student to face the business world with a strong foundation. No matter what our major is, we take classes in different areas to gain a knowledge about the necessary aspects of life. The classes surround basics of every business field a student should know. Starting from marketing to finance, accounting to ethics, legal studies to analytics, management to communication, professional development to industrial revolution, and even math! </p>
 <p> One of the biggest skills I have picked up is using tools across multiple fields. For example, here are some examples of using Microsoft Excel for different business classes - </p>
@@ -125,11 +122,10 @@ These are some classes I took -
 <li> Managerial Accounting for Decision Making </li>
 <li> Corporate Financial Problems </li>
 <li> Financial Markets & Institutions </li>
-<li> Analytics </li>
+<li> Analytics Sequence </li>
 <br>
-<p> Several Presentation skills - multiple mediums, variety of audience types, learning various tools and techniques, how to be creative </p>
-<li> 1010 Presentation </li>
-<li> 1010 Infographic </li>
-<li> 3140 reports Access </li>
-<li> 2300 report </li>
+<p> Several presentation skills were developed as I worked individually and in groups. It was very insightful to learn how to present on multiple mediums, cater to variety of audience types, learning various tools and techniques, how to be creative etc. </p>
+<p> Find some of my work from <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/tree/main/Application%20%26%20Practice'>here! </a> </p>
+
+
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
