@@ -6,7 +6,7 @@
 With the Finance Club, I started as the International Student Affairs Chair my first year, became Events Chair in the next year, and transitioned to President during my third year. I was the youngest student for the position and also the only woman on the executive board that year. This experience has taught me a lot about how to be a leader. </p>
 
 #### RESPONSIBILITIES & LEADING PEOPLE
-<p> The club was mostly forgotten about during the 2020-2021 academic year since we were completely remote. When I started my role as President in June 2021, my aim was to get the club back on its feet. I wanted more engagement and scale.</p>
+<p> The Finance Club was mostly forgotten about during the 2020-2021 academic year since we were completely remote. When I started my role as President in June 2021, my aim was to get the club back on its feet. I wanted more engagement and scale.</p>
 <p> Here are some things I learned - </p>
 <li> A leader has to be forward looking. What Next? Where are we headed? </li>
 <li> A long-term strategy is important. It is easy to get absorbed in the day-to-day event planning that one forgets the ultimate agenda of the organization. </li>
@@ -16,7 +16,7 @@ With the Finance Club, I started as the International Student Affairs Chair my f
 <li> Leaders are responsible for creating accountability and ownership of work among the team members. Managing different schedules of college students is also another important skill. It is crucial to build a commitment among the team members for the club. </li>
 
 #### MANAGEMENT & PLANNING
-<p> In addition to the day-to-day activities of the club, I worked to enhance the functioning of the club. </p>
+<p> In addition to the day-to-day activities of the Finance Club, I worked to enhance the functioning of the club. </p>
 <li> Created new executive board list - create roles and define responsibilities. To recruit young talent with fresh ideas! </li>
 <li> Created a Teams group - divide channels, organize folders, upload files, store data in one repository. </li>
 <li> Visualized events for whole team - created calendar for the academic year. </li>
