@@ -7,15 +7,15 @@ Microsoft Office Specialist Team, Daniels College of Business, University of Den
 Daniels College of Business/Athletics Department, University of Denver
 <br>
 ##### SUMMARY
-As a Microsoft TA at my university, I was responsible for teaching class sizes of about 30-40 students. Our Microsoft Certification program was deisgned to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave a certain way, which formulas to use, where in the real world are they applied etc. I also helped grade student assignments, proctor certification exams, and mentor TAs in training.
+As a Microsoft TA at my university, I was responsible for teaching 2 to 3 classes with about 30 students each in one academic term. Our Microsoft Certification program is designed to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave in a certain way, which formulas to use, where in the real world are they applied etc. I also helped grade student assignments, proctor certification exams, and mentor other TAs in training.
 This role developed my public speaking, communication, inter-personal, people management, critical thinking, and problem solving skills.
 
-As an Athletic Tutor, I was given several classes that I could tutor for. This was a very challenging role to be in because many students requested tutoring for tough classes, the ones in which even I may have been having difficulties. For exmaple, I had to teach a student concepts in multinational finance including foreign exchange, hedging, options, pricing, currency swaps, arbitrage etc. These topics are not my strength which is why if ask to teach them, I had to put several hours of prep. It challenged me to teach challenging concepts.
+As an Athletic Tutor, I was given several classes that I could tutor for. This was a very challenging role to be in because many students requested tutoring for tough classes, the ones in which even I may have been having difficulties. For exmaple, I had to teach a student concepts in multinational finance including foreign exchange, hedging, options, pricing, currency swaps, arbitrage etc. These topics are not my strength which is why if asked to teach them, I had to put several hours of prep. It challenged me to teach challenging concepts.
 This role developed my critical thinking skills even more as I came up with multiple methods of explanations. I had to learn the habits of being available, flexible, understanding, and patient.
 
 ##### METHODS OF TEACHING
 <i> Tutoring Practices & Challenges </i>
-<li> As I explain concepts to students, I had to be extremel careful and not give away answers for homework assignments. </li>
+<li> As I explain concepts to students, I had to be extremely careful and not give away answers for homework assignments. </li>
 <li> When I couldn't explain something, I made them read my notes or access online resources. </li>
 <li> Spend extensive time prepping, reading past notes, homework answers, online resources before the tutoring session to be prepared for questions. </li>
 <li> Devise easy ways of understanding concepts - create flowcharts, draw diagrams, write formulas, solve calculations on paper, visualize using Excel. </li>
@@ -31,9 +31,9 @@ This role developed my critical thinking skills even more as I came up with mult
 <br>
 <i> Analogies and applications of Microsoft tools - </i>
 <li> Using Excel for data analysis. Data could be about sales, HR, audits, marketing research, stocks, expenses etc. </li>
-<li> PowerPoint presentations are linked to results on Excel sheets. You can link both to for charts to automatically update in the presentation. </li>
+<li> PowerPoint presentations are linked to results on Excel sheets. You can link both for charts to automatically update in the presentation. </li>
 <li> Vlookup has some limitations, use the alternatives like INDEX/MATCH. </li>
-<li> Build a good resume by using appropriate formatting, indentation, text styles, and lists in Word </li>
+<li> Build a good resume by using appropriate formatting, indentation, text styles, and lists in Word. Taught students to use bibliography and citations tools in Word for academic papers. </li>
 <br>
 <br>
 <i> Problem solving and troubleshooting - </i>
@@ -58,7 +58,7 @@ This role developed my critical thinking skills even more as I came up with mult
 <div> Tutoring different students in completely different subject material prepared me to be a multi-tasker. It taught me the importance of subject area knowledge and how in the real world I will have to juggle multiple projects with multiple clients surrounding multiple issues! </div>
 
 ##### REVISION METHODS
-As part of maintaining class engagement and provide "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
+As part of maintaining class engagement and providing "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
 
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
 <p> <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a> </p>
