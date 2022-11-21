@@ -6,7 +6,7 @@
 With the Finance Club, I started as the International Student Affairs Chair my first year, became Events Chair in the next year, and transitioned to President during my third year. I was the youngest student for the position and also the only woman on the executive board that year. This experience has taught me a lot about how to be a leader. </p>
 
 #### RESPONSIBILITIES & LEADING PEOPLE
-<p> The Finance Club was mostly forgotten about during the 2020-2021 academic year since we were completely remote. When I started my role as President in June 2021, my aim was to get the club back on its feet. I wanted more engagement and scale.</p>
+<p> The Finance Club was mostly forgotten about during the 2020-2021 academic year since we were completely remote. When I started my role as President in June 2021, the campus was back in person, and my aim was to get the club back on its feet. I wanted more engagement and scale.</p>
 <p> Here are some things I learned - </p>
 <li> A leader has to be forward looking. What Next? Where are we headed? </li>
 <li> A long-term strategy is important. It is easy to get absorbed in the day-to-day event planning that one forgets the ultimate agenda of the organization. </li>
