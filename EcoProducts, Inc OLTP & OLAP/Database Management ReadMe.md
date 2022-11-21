@@ -277,7 +277,14 @@ ORDER BY COUNT(OrderID) DESC, SUM(ProductRetailPrice) DESC; </pre>
 <br>
 
 #### PRESENTATION OF SQL SERVER DATABASE FORMS AND REPORTS
-Here is a link to watch my presentation of the forms and reports I created on Visual Studio. <a href="https://youtu.be/VjZP_qqjV48"> Go To Video!</a>
+In Visual Studio, in a VB.NET environment, I created forms and reports for the database. Watch the recording below!
+<a name="VideoDemo"></a>
+
+https://user-images.githubusercontent.com/116829793/203178129-d8ecc5bd-95e2-4013-97ae-b94d5f31e17f.mp4
+
+<br>
+
+https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea-be7d-d55066df771f.mp4
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
