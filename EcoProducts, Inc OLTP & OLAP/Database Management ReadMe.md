@@ -57,7 +57,9 @@ ORDER BY [ORDER].OrderDate;
 -- REASONING : A view of when the customer placed their last order. It will be helpful to know inactive customers also. 
 -- ANSWER AND INTERPRETATION : There are many customers who purchased last in 2010, 2011, 2012, 2013. Maybe these customer accounts can be closed, reopened if necessary. There are customer who purchased last in 2019 & 2020, maybe some promotional offers/cards can be sent to bring them back. </pre>
 
-<a href=''> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+
+
 ## PART 2 - OLTP ON MICROSOFT SQL SERVER
 #### ERD IMPROVISED
 <img src="https://user-images.githubusercontent.com/116829793/202939020-79ef2c31-e7e7-4f20-b4f8-4d46522830ea.png">
@@ -116,6 +118,8 @@ WITH (
 	TABLOCK
 	);
 '); </pre>
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
 #### USER DEFINED FUNCTION, STORED PROCEDURE, VIEW SCRIPT
 <pre> -- UDF 1
@@ -275,6 +279,9 @@ ORDER BY COUNT(OrderID) DESC, SUM(ProductRetailPrice) DESC; </pre>
 #### PRESENTATION OF SQL SERVER DATABASE FORMS AND REPORTS
 Here is a link to watch my presentation of the forms and reports I created on Visual Studio. <a href="https://youtu.be/VjZP_qqjV48"> Go To Video!</a>
 
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+
+
 ## PART 3 - OLAP IN MICROSOFT SQL SERVER, VISUAL STUDIO, POWER BI
 #### PHASE 1 - SOLUTION DOCUMENTATION
 Created documentation and Visual Studio solution to transition from OLTP to OLAP. Here are snapshots of the Solution Development Plan.
@@ -384,6 +391,9 @@ CREATE TABLE DimProduct
 	CONSTRAINT fk_order_dim_date FOREIGN KEY (OrderDateKey) REFERENCES DimDate(Date_SK),
 	CONSTRAINT fk_ship_dim_date FOREIGN KEY (ShipDateKey) REFERENCES DimDate(Date_SK)
 	); </pre>
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+
 #### PHASE 3 - ETL SCREENSHOT
 <img src="https://user-images.githubusercontent.com/116829793/202946122-33e771e2-76dc-4bfb-b487-020043a19eff.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946157-08037023-6341-461d-8c7d-1cfb56d834bf.png">
@@ -413,4 +423,5 @@ Below Average Quantity Orders = CALCULATE(DISTINCTCOUNT('Sales'[SalesOrderID_DD]
 Sales Orders = DISTINCTCOUNT('Sales'[SalesOrderID_DD])
 AverageRetailCharged = AVERAGEX(RELATEDTABLE(Sales),[RetailPrice])
 ConsumerLocation = 'Consumer'[ConsumerCity] & ", " & 'Consumer'[ConsumerState] </pre>
-
+<br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
