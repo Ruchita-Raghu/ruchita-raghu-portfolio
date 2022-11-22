@@ -117,6 +117,7 @@ These are some classes I took -
 <li> Art History - Images of Culture: Islamic Art and Architecture </li>
 <br>
 
+
 ### Internal Business Environment Knowledge
 <p> The business core classes at Daniels prepare a student to face the business world with a strong foundation. No matter what our major is, we take classes in different areas to gain a knowledge about the necessary aspects of a business. The classes surround basics of every business field a student should know. Starting from marketing to finance, accounting to ethics, legal studies to analytics, management to communication, professional development to industrial revolution, and even math! </p>
 <p> Here are some business classes I took - </p>
