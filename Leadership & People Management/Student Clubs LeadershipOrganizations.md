@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
 # CLUB LEADERSHIP
 #### SUMMARY
 <p> Undergraduate student clubs provide several opportunities together such as making friends, networking, learning, exploring etc. The most important and crucial opportunity is leadership. During my time at DU, I joined two student organizations - Undergraduate Women in Business and Finance Club. Both helped me develop as a person and as a professional. </p>
