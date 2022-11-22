@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
 # FUN EXPERIENCES AND SNAPSHOTS FROM EXCITING VENTURES
 ### DANCE
 <img src ="https://user-images.githubusercontent.com/116829793/202885101-fcb68664-3fe8-4e6d-9c5f-676526a5cec9.JPG" height=280 width=200> <img src ="https://user-images.githubusercontent.com/116829793/202885198-98cad3d9-2977-4b71-a35b-41f72b81a5d5.JPG" height=280 width=200> <img src ="https://user-images.githubusercontent.com/116829793/202885219-65598e5d-caf3-4dc2-a670-79f8e10d115e.JPG" height=280 width=200> <img src ="https://user-images.githubusercontent.com/116829793/202885226-c6ba92e5-8298-4088-8e89-07f1f468123d.JPG" height=280 width=200> 
