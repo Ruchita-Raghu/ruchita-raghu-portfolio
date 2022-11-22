@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
 # COMPREHENSIVE UNDERGRADUATE PROGRAM AND STUDENT DEVELOPMENT
 ## PART 1 - ANALYTICS
 #### Python
