@@ -407,12 +407,12 @@ CREATE TABLE DimProduct
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
-#### PHASE 3 - ETL SCREENSHOT
+#### PHASE 3 - ETL - EXTRACT, TRANSFORM, LOAD
 <img src="https://user-images.githubusercontent.com/116829793/202946122-33e771e2-76dc-4bfb-b487-020043a19eff.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946157-08037023-6341-461d-8c7d-1cfb56d834bf.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946191-e3ff20d4-75c2-470b-be11-b1e209bad6fa.png">
 
-#### PHASE 4 - POWER PIVOT SCREENSHOT
+#### PHASE 4 - POWER PIVOT MULTIDIMENSIONAL ANALYSIS
 <img src="https://user-images.githubusercontent.com/116829793/202946361-7ff5f53f-2eb0-4010-8f47-0213b0854867.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946562-3793caeb-ed3a-45c6-9b64-b71fc07b85e4.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946598-77ac8098-caaf-41d3-852a-70490bc8c552.png">
@@ -421,7 +421,7 @@ CREATE TABLE DimProduct
 <img src="https://user-images.githubusercontent.com/116829793/202946842-89bef4bd-18a7-450f-ae79-4dfed7196234.png">
 <img src="https://user-images.githubusercontent.com/116829793/202946949-38e66f7e-e14f-4088-b90f-bcd4637d1cdb.png">
 
-#### PHASE 5 - POWERBI DASHBOARD SCREENSHOT
+#### PHASE 5 - POWERBI DASHBOARD REPORTING
 <img src="https://user-images.githubusercontent.com/116829793/202947989-bfd0a03c-76c9-443a-aa6a-bab388bbd77d.png">
 <img src="https://user-images.githubusercontent.com/116829793/202948295-0c366311-8f9d-4a4f-8896-c93bf826a99f.png">
 <img src="https://user-images.githubusercontent.com/116829793/203185180-f085b6c1-a932-42c8-83ce-d9ddeadd202e.png">
