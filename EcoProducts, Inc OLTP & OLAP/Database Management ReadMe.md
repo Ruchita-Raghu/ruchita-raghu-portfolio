@@ -8,6 +8,7 @@
 
 #### EXECUTIVE SUMMARY
 <p> Eco Products, Inc., is a manufacturing company, founded in Colorado, in 1990. Their purpose is to be “the vanguard of a Zero Waste future”. Their business is based on environmental concepts like recycling, reusing, composting, renewable resources, and sustainability. Their products include hot cups, cold cups, containers, utensils, and bags which are manufactured keeping those concepts in mind. Unlike other manufacturers, in order to remain environmentally conscious, the company needs to be aware of certain requirements and processes. There is an opportunity to build a database which will help them organize data, share data across centers, and visualize their progress. </p>
+<p> ** Please note: No copyright infringement intended in terms of the company name. The data associated, its details, analysis, and conclusions do not pertain to the actual company called EcoProducts. All of the project codes, tables, names were all fictitiously created for the purpose of the project. No intention to copy company brands. </p>
 
 #### BUSINESS PROBLEM AND OPPORTUNITY
 <pre> The need for a database arises due to several factors – 
@@ -24,12 +25,16 @@ In addition to product and supplier certifications, there are substrates (underl
 <img src="https://user-images.githubusercontent.com/116829793/202918596-2db470e7-6a0d-4cd2-94f8-6050ce451fa4.png">
 
 #### CREATED ACCESS DATABASE
-<img width="629" alt="image" src="https://user-images.githubusercontent.com/116829793/202918760-e387b1de-7462-41d3-a60c-6da09cb86948.png">
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/116829793/202918791-2a44a251-ce47-4d5c-ba2a-4b0bd79c8a84.png">
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/116829793/202918842-40d90771-18d4-4eea-984b-496a372e85a8.png">
-<img width="626" alt="image" src="https://user-images.githubusercontent.com/116829793/202918897-ceb6f612-61f0-49a1-8181-7c65374b072f.png">
-<img width="275" alt="image" src="https://user-images.githubusercontent.com/116829793/202918927-196f3ced-4cd5-4441-81e1-63c0e1b27047.png">
-
+<p> Navigation/Startup form </p>
+<img src="https://user-images.githubusercontent.com/116829793/202918760-e387b1de-7462-41d3-a60c-6da09cb86948.png">
+<p> Sample forms and subforms </p>
+<img src="https://user-images.githubusercontent.com/116829793/202918791-2a44a251-ce47-4d5c-ba2a-4b0bd79c8a84.png">
+<img src="https://user-images.githubusercontent.com/116829793/202918842-40d90771-18d4-4eea-984b-496a372e85a8.png">
+<p> Sample report and report filter button </p>
+<img src="https://user-images.githubusercontent.com/116829793/202918897-ceb6f612-61f0-49a1-8181-7c65374b072f.png">
+<img src="https://user-images.githubusercontent.com/116829793/202918927-196f3ced-4cd5-4441-81e1-63c0e1b27047.png">
+<br>
+<p> <b> SAMPLE SQL QUERIES TO EXTRACT DATA FROM DATABASE </b> </p>
 <pre> -- BUSINESS QUESTION 1 : Are there products which have not yet been certified?
 SELECT DISTINCT PRODUCT.ProductID, PRODUCT.ProductName, PRODUCT.ProductCategory
 FROM (PRODUCT
@@ -94,15 +99,15 @@ IF EXISTS(
 	DROP TABLE [OrderItem]; </pre>
 <pre>
 CREATE TABLE Consumer
-	(ConsumerID					INT CONSTRAINT pk_consumer_id PRIMARY KEY,
+	(ConsumerID				INT CONSTRAINT pk_consumer_id PRIMARY KEY,
 	ConsumerFirstName			NVARCHAR(30) CONSTRAINT nn_consumer_first_name NOT NULL,
 	ConsumerLastName			NVARCHAR(40) CONSTRAINT nn_consumer_last_name NOT NULL,
 	ConsumerPhoneNo				NVARCHAR(15) CONSTRAINT nn_consumer_phone_no NOT NULL,
 	ConsumerAddress				NVARCHAR(70) CONSTRAINT nn_consumer_address NOT NULL,
 	ConsumerCity				NVARCHAR(30) CONSTRAINT nn_consumer_city NOT NULL,
 	ConsumerState				NCHAR(2)  CONSTRAINT nn_consumer_state NOT NULL,
-	ConsumerZip					NVARCHAR(10) CONSTRAINT nn_consumer_zip NOT NULL,
-	ConsumerShippingChosen		NVARCHAR(40) CONSTRAINT nn_consumer_shipping_chosen NOT NULL,
+	ConsumerZip				NVARCHAR(10) CONSTRAINT nn_consumer_zip NOT NULL,
+	ConsumerShippingChosen			NVARCHAR(40) CONSTRAINT nn_consumer_shipping_chosen NOT NULL,
 	ConsumerMemberCode			INT CONSTRAINT fk_member_consumer FOREIGN KEY REFERENCES ConsumerMembership(ConsumerMemberCode),
 	SubscriptionCode			INT CONSTRAINT fk_subscription_consumer FOREIGN KEY REFERENCES Subscription(SubscriptionCode)
 	); </pre>
@@ -292,7 +297,8 @@ https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea
 ## PART 3 - OLAP IN MICROSOFT SQL SERVER, VISUAL STUDIO, POWER BI
 #### PHASE 1 - SOLUTION DOCUMENTATION
 Created documentation and Visual Studio solution to transition from OLTP to OLAP. Here are snapshots of the Solution Development Plan.
-<img src="https://user-images.githubusercontent.com/116829793/202944783-e91508ca-7423-4515-b10a-3f7a0cab00ed.png">
+<img src="https://user-images.githubusercontent.com/116829793/202944783-e91508ca-7423-4515-b10a-3f7a0cab00ed.png" height=450 width=700>
+
 <img src="https://user-images.githubusercontent.com/116829793/202944982-776821c0-854a-4bf8-a05e-fd6fef2502b4.png">
 <img src="https://user-images.githubusercontent.com/116829793/202945019-87dc289e-994c-4c61-8650-ab2d1256d79d.png">
 Object Worksheet
@@ -416,12 +422,11 @@ CREATE TABLE DimProduct
 <img src="https://user-images.githubusercontent.com/116829793/202946949-38e66f7e-e14f-4088-b90f-bcd4637d1cdb.png">
 
 #### PHASE 5 - POWERBI DASHBOARD SCREENSHOT
-<img width="761" alt="image" src="https://user-images.githubusercontent.com/116829793/202947989-bfd0a03c-76c9-443a-aa6a-bab388bbd77d.png">
-<img width="756" alt="image" src="https://user-images.githubusercontent.com/116829793/202948295-0c366311-8f9d-4a4f-8896-c93bf826a99f.png">
+<img src="https://user-images.githubusercontent.com/116829793/202947989-bfd0a03c-76c9-443a-aa6a-bab388bbd77d.png">
+<img src="https://user-images.githubusercontent.com/116829793/202948295-0c366311-8f9d-4a4f-8896-c93bf826a99f.png">
+<img src="https://user-images.githubusercontent.com/116829793/203185180-f085b6c1-a932-42c8-83ce-d9ddeadd202e.png">
 
 
-
-Analysis & Recommendations
 
 Certain DAX measures and columns I made - 
 <pre>
