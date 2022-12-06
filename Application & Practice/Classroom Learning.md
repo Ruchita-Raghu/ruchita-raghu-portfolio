@@ -100,7 +100,7 @@ The use of R was for a financial modelling class that I took. In addition to lea
 
 #### SQL
 Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/Visual Studio applications. SQL used to create databases, data marts, query databases etc.
-Explore the database managemnt work <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'>here!</a>
+Explore the database management work <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'>here!</a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
 
