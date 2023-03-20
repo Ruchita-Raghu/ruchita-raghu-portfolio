@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/202769444-abb1003b-ec31-44b6-bfc5-43f2e9beca1f.png" height=50 width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
 # TEACHING EXPERIENCES
 
 ### Microsoft Senior & Junior Teaching Assistant, September 2020 - June 2023
@@ -7,11 +7,11 @@ Microsoft Office Specialist Team, Daniels College of Business, University of Den
 Daniels College of Business/Athletics Department, University of Denver
 <br>
 ##### SUMMARY
-As a Microsoft TA at my university, I was responsible for teaching 2 to 3 classes with about 30 students each in one academic term. Our Microsoft Certification program is designed to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave in a certain way, which formulas to use, where in the real world are they applied etc. I also helped grade student assignments, proctor certification exams, and mentor other TAs in training.
+As a Microsoft TA, I was responsible for teaching 3 to 4 classes with about 30 students each in an academic term. Our Microsoft Certification program is designed to train first-year undergraduate students in basic uses of Excel, Word, PowerPoint, and Advanced Excel. My role encompassed instructing and lecturing in class - familiarize students with the tools, why applications behave in a certain way, which formulas to use, real world applicability etc. I also helped grade student assignments, proctor certification exams, and mentor other TAs in training.
 This role developed my public speaking, communication, inter-personal, people management, critical thinking, and problem solving skills.
 
-As an Athletic Tutor, I was given several classes that I could tutor for. This was a very challenging role to be in because many students requested tutoring for tough classes, the ones in which even I may have been having difficulties. For exmaple, I had to teach a student concepts in multinational finance including foreign exchange, hedging, options, pricing, currency swaps, arbitrage etc. These topics are not my strength which is why if asked to teach them, I had to put several hours of prep. It challenged me to teach challenging concepts.
-This role developed my critical thinking skills even more as I came up with multiple methods of explanations. I had to learn the habits of being available, flexible, understanding, and patient.
+As an Athletic Tutor, I was given several classes to tutor for. A challenging role since many students request tutoring for tough classes, the ones in which I may not be good either. For exmaple, concepts in multinational finance including foreign exchange, hedging, options, pricing, and currency swaps are tougb to teach. These topics are not my strength so, I had to put several hours of preparation.
+This role developed my critical thinking skills as I came up with multiple methods of explanations. I had to learn to be available, flexible, understanding, and patient.
 
 ##### METHODS OF TEACHING
 <i> Tutoring Practices & Challenges </i>
@@ -27,6 +27,8 @@ This role developed my critical thinking skills even more as I came up with mult
 [<img src="https://user-images.githubusercontent.com/116829793/199546916-350b1d78-3600-4e18-b042-0b138a54334b.png" height="350" width="450">](#Capture)
 [<img src="https://user-images.githubusercontent.com/116829793/199547119-0dab1465-75fe-4441-a2a7-1fac5c9cadc0.png" height="350" width="450">](#Capture1)
 [<img src="https://user-images.githubusercontent.com/116829793/199547184-276be476-bb62-4282-bb15-e3578e51886e.png" height="350" width="450">](#Capture2)
+<br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 <br>
 <br>
 <i> Analogies and applications of Microsoft tools - </i>
@@ -62,5 +64,4 @@ As part of maintaining class engagement and providing "fun" ways of refreshing p
 
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
 <p> <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a> </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
-
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
