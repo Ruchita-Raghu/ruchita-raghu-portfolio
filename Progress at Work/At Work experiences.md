@@ -80,10 +80,10 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <br>
 <h2> Lessons from work </h2>
 <p> My biggest lesson from all work experiences has been an effort to learn. No matter the rank or role, learning should never stop. I found it highly important and useful to take notes regarding everything I do. It starts with learning about the company through internal sites, meeting minutes, informational interviews and networking, and self-educating activities. </p>
-<li> One of my companies followed EOS, Entrepreneurial Operating System, a people operating system not computer operating system. Just to understand the system, its benefits, and how the company worked with it, I created a notes sheet. Find the documentation about EOS <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/EOS%20Notes.pdf">here</a>! </li>
+<li> One of my companies followed EOS, Entrepreneurial Operating System, a people operating system not computer operating system. Just to understand the system, its benefits, and how the company worked with it, I created a notes sheet. </li>
 <li> Learning platforms at organizations are really beneficial for our professional skills development. During internships, I completed courses and obtained certifications relating to my work.</li>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/tree/main/Progress%20at%20Work'> <img src="https://user-images.githubusercontent.com/116829793/226446645-0bc4771d-5658-406a-9c4f-b03d6ca6b0b9.png" width=230 /> </a>
 <li> Notes during networking are vital to value someone's time and advice. One of the companies I was wanting to join had a virtual networking event. I made use of the event to best understand the organization and its people. Here is how I encourage everyone to keep the networking effort going. </li>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/tree/main/Progress%20at%20Work'> <img src="https://user-images.githubusercontent.com/116829793/226446645-0bc4771d-5658-406a-9c4f-b03d6ca6b0b9.png" width=230 /> </a>
 <br>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
