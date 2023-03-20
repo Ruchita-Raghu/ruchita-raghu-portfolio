@@ -1,5 +1,5 @@
 # DANIELS DISTINCTION PORTFOLIO
-## RUCHITA RAGHUNANDAN | UNIVERSITY OF DENVER | DITSTINCTION IN BUSINESS ANALYTICS | SPRING 2023
+## RUCHITA RAGHUNANDAN | UNIVERSITY OF DENVER | DISTINCTION IN BUSINESS ANALYTICS | SPRING 2023
 #### Welcome! My name is Ruchita Raghunandan! I am a senior at the University of Denver, pursuing Bachelors of Science in Business Administration, majoring in Finance and Business Information & Analytics. Find below my Daniels Distinction Portfolio with details about my work, interests, skills and more!
 <h3> BACKGROUND </h3>
 <p> My journey to where I am today has been very exciting, enjoyable, and enlightening! I was born in Mysuru, India. I lived in New Delhi for 18 years. The specialty about my country is that every state has its own culture, language, food, customs etc. Today, I speak 3 Indian languages with ease and enjoy the multi-cultural personality I have developed. I highly encourage the value that diversity and inclusivity bring to a person. </p>
