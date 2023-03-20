@@ -15,11 +15,11 @@ This role developed my critical thinking skills as I came up with multiple metho
 
 ##### METHODS OF TEACHING
 <i> Tutoring Practices & Challenges </i>
-<li> As I explain concepts to students, I had to be extremely careful and not give away answers for homework assignments. </li>
-<li> When I couldn't explain something, I made them read my notes or access online resources. </li>
-<li> Spend extensive time prepping, reading past notes, homework answers, online resources before the tutoring session to be prepared for questions. </li>
-<li> Devise easy ways of understanding concepts - create flowcharts, draw diagrams, write formulas, solve calculations on paper, visualize using Excel. </li>
-<li> I had to ensure that the student really understood the concept and did not just "get the answer". </li>
+<li> Explaining concepts - Be extremely careful and not give away answers for assignments </li>
+<li> Inability to explain, read from program notes or access online resources </li>
+<li> Extensive prep time - refer past notes, homework answers, train for possible hypothetical doubts, online resources before tutoring session </li>
+<li> Devise easy ways of understanding concepts - create flowcharts, draw diagrams, write formulas, solve calculations on paper, visualize using Excel </li>
+<li> Ensure student understood concepts and did not just "get the answer" </li>
 <br>
 <i> Here are some methodologies I devised to explain formulas to beginners in Excel - </i>
 
@@ -32,10 +32,10 @@ This role developed my critical thinking skills as I came up with multiple metho
 <br>
 <br>
 <i> Analogies and applications of Microsoft tools - </i>
-<li> Using Excel for data analysis. Data could be about sales, HR, audits, marketing research, stocks, expenses etc. </li>
-<li> PowerPoint presentations are linked to results on Excel sheets. You can link both for charts to automatically update in the presentation. </li>
-<li> Vlookup has some limitations, use the alternatives like INDEX/MATCH. </li>
-<li> Build a good resume by using appropriate formatting, indentation, text styles, and lists in Word. Taught students to use bibliography and citations tools in Word for academic papers. </li>
+<li> Using Excel for data analysis. Data could be about sales, HR, audits, marketing research, stocks, and expenses </li>
+<li> PowerPoint presentations are linked to results on Excel sheets. You can link both for charts to automatically update in the presentation </li>
+<li> Vlookup has some limitations, use the alternatives like INDEX/MATCH </li>
+<li> Build a good resume by using appropriate formatting, indentation, text styles, and lists in Word. Taught students to use bibliography and citations tools in Word for academic papers </li>
 <br>
 <br>
 <i> Problem solving and troubleshooting - </i>
@@ -55,9 +55,9 @@ This role developed my critical thinking skills as I came up with multiple metho
 <br>
 <br>
 <i> People Management - </i>
-<div> A role similar to that of a teacher or professor. I had to maintain student engagement in class, answer difficult questions, manage student emails (especially during the pandemic with increased protocols), provide additional support to students in need etc. </div>
-<div> I learned how to communicate with people coming from various different backgrounds. My work taught me how to cater to multiple learning styles in one class. </div>
-<div> Tutoring different students in completely different subject material prepared me to be a multi-tasker. It taught me the importance of subject area knowledge and how in the real world I will have to juggle multiple projects with multiple clients surrounding multiple issues! </div>
+<li> Role similar to teacher/professor. Maintain student engagement in class, answer difficult questions, manage student emails (especially during pandemic with increased protocols), and provide additional support to students in need  </li>
+<li> Communicate with people from various different backgrounds. Cater to multiple learning styles in one class </li>
+<li> Tutoring for different subject material, be a multi-tasker. Importance of subject area knowledge and ability to juggle multiple projects with multiple clients surrounding multiple issues </li>
 
 ##### REVISION METHODS
 As part of maintaining class engagement and providing "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
