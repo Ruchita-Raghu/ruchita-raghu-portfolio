@@ -8,9 +8,7 @@
 <br>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png" width=450 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226229930-5302893f-2afc-472b-9920-17a43737843a.png" width=450 /> </a>
-
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md'> <img src="https://user-images.githubusercontent.com/116829793/226230000-bf6a3a16-e5d4-4132-9fe1-648122ccc5ee.png" width=450 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md'> <img src="https://user-images.githubusercontent.com/116829793/226228794-1df1ed6d-b669-4246-9845-3fd1e3ad556d.png" width=450 /> </a>
-
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226230053-f04962a5-85e9-4dc9-a6de-7b71e3e95b84.png" width=450 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/226230129-fb5be273-8464-4444-8f06-06890cf6ce22.png" width=450 /> </a>
 
 <h3> EDUCATION </h3>
@@ -27,7 +25,7 @@
 <br>
 <h3> WORK EXPERIENCE </h3>
 <p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
-<p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces </p>
+<p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. </p>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'>Here are more details!</a>
 <br>
 <h3> LINKEDIN PROFILE </h3>
