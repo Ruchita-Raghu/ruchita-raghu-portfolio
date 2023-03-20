@@ -2,9 +2,8 @@
 ## RUCHITA RAGHUNANDAN | UNIVERSITY OF DENVER | DISTINCTION IN BUSINESS ANALYTICS | SPRING 2023
 #### Welcome! My name is Ruchita Raghunandan! I am a senior at the University of Denver, pursuing Bachelors of Science in Business Administration, majoring in Finance and Business Information & Analytics. Find below my Daniels Distinction Portfolio with details about my work, interests, skills and more!
 <h3> BACKGROUND </h3>
-<p> My journey to where I am today has been very exciting, enjoyable, and enlightening! I was born in Mysuru, India. I lived in New Delhi for 18 years. The specialty about my country is that every state has its own culture, language, food, customs etc. Today, I speak 3 Indian languages with ease and enjoy the multi-cultural personality I have developed. I highly encourage the value that diversity and inclusivity bring to a person. </p>
-<p> Today, I am in the United States to pursue my higher education and establish my professional career. I am an ambitious and hard working person, ready to accept new opportunities and explore everyhting that life has to offer to me. This led me to do well in classes, work at different companies, and plan for the future. I am also a professional dancer trained in Bharatnatyam (Indian Classical Dance form). Dance is a passion that I have continued to pursue all these years. A passion that has made me driven, motivated, and disciplined individual. I am a big family person. I love spending time with my family and helping them out whenever possible. In my free time, I spend time with my hobbies - cooking, dancing, reading, hiking, walking, biking and more! </p>
-<p> This portfolio is a collection of the several opportunities I took part in over the last few years. Various kinds of experiential projects have given exposure to various disciplines, personal and professional. Click on the buttons below to read more! </p>
+<p>  I was born in Mysuru, Karnataka, India. Spent my childhood and completed my schooling in New Delhi. Today, I am in the United States to pursue my higher education and establish my professional career. I am an ambitious and hard working person, ready to accept new opportunities and explore everything that life has to offer to me. I am driven, self-motivated, and disciplined individual. I am also a professional dancer trained in Bharatnatyam (Indian Classical Dance form). In my free time, I spend time with family or with hobbies - cooking, dancing, reading, hiking, walking, biking and more! </p>
+<p> This portfolio is a collection of the several opportunities I took part in over the last few years. Various kinds of experiential projects have given exposure to various disciplines, personal and professional. Navigate below to read more! </p>
 <br>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png" width=450 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226229930-5302893f-2afc-472b-9920-17a43737843a.png" width=450 /> </a>
@@ -26,7 +25,7 @@
 <h3> WORK EXPERIENCE </h3>
 <p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
 <p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'>Here are more details!</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226442349-695058ab-87d2-4915-9a7f-ab62e87cb61c.png" width=230 /> </a>
 <br>
 <h3> LINKEDIN PROFILE </h3>
 <a href="https://www.linkedin.com/in/ruchita-raghunandan-66ba88193/">Ruchita Raghunandan LinkedIn</a>
@@ -34,4 +33,4 @@
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ruchita%20-%20Resume%20senior.pdf">Ruchita Raghunandan Resume</a>
 <br>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'> <img src="https://user-images.githubusercontent.com/116829793/226442575-e25153aa-abbb-447a-8629-61a61d60bd53.png" width=230 /> </a>
