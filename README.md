@@ -6,7 +6,7 @@
 <p> This portfolio is a collection of the several opportunities I took part in over the last few years. Various kinds of experiential projects have given exposure to various disciplines, personal and professional. Navigate below to read more! </p>
 <br>
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png"> </a> 
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png" width=450 /> </a> 
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226229930-5302893f-2afc-472b-9920-17a43737843a.png" width=450 /> </a>
 
