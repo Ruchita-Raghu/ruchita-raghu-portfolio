@@ -6,7 +6,7 @@
 <p> The Business Information & Analytics department at the Daniels College of Business has formed a strong and rigorous undergraduate program. It exposed students to exxtensive coding work. The best part was that the focus was not the programming language and its syntax. The aim was to make us better decision makers, learn how to work with data, what data in front us means, and learn application of technical skills across sectors in business. </p>
 <p> Find below screenshots of coding work that I did. </p>
 
-<a href="www.yourwebsite.com/files/abcd.zip">Download ZIP</a>
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
 #### Python
 Basic usage of Python and exploring its use for formatting and statistical purposes.
 <li> Packages Used - </li>
