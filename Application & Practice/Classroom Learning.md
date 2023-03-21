@@ -46,11 +46,10 @@ Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
-## PART 2 - BUSINESS CORE
+## PART 2 - BUSINESS & NON-BUSINESS CURRICULUM
 ### External Business Environment Knowledge
-<p> Soon in the business program I understood how the business is affected by legal, political, economic, social factors externally. I realized the importance of knowing trends and situations in the global economy. It is crucial for every professional to be able to read and analyze news pieces, interpret messages from world leaders, keep track of current happenings etc. I grasped a lot of knowledge from my non-business classes about what one should be aware of. </p>
-<p> I took several classes which enhanced my communication, global awareness, general knowledge, problem solving, and critical thinking skills. </p>
-These are some classes I took - 
+<p> I understood how business is affected by legal, political, economic, social factors etc. I realized the importance of trends in the global economy. It is crucial for every professional to be able to read and analyze news pieces, interpret messages from world leaders, keep track of current happenings etc. I grasped a lot of knowledge from my non-business classes about what one should be aware of. </p>
+<p> These classes enhanced my communication, global awareness, general knowledge, problem solving, and critical thinking skills. Classes included - </p>
 <li> Political Science - America, China, and Competition for Global Leadership </li>
 <li> World Language - French </li>
 <li> Sustainability </li>
@@ -59,27 +58,20 @@ These are some classes I took -
 <li> Art History - Images of Culture: Islamic Art and Architecture </li>
 <br>
 
-
 ### Internal Business Environment Knowledge
-<p> The business core classes at Daniels prepare a student to face the business world with a strong foundation. No matter what our major is, we take classes in different areas to gain a knowledge about the necessary aspects of a business. The classes surround basics of every business field a student should know. Starting from marketing to finance, accounting to ethics, legal studies to analytics, management to communication, professional development to industrial revolution, and even math! </p>
-<p> Here are some business classes I took - </p>
+<p> The business core classes at Daniels prepare a student to face the business world with a strong foundation. No matter what our major is, we take classes in different areas to gain a knowledge about the fundamental aspects of a business. Classes Included - </p>
 <li> Introduction to Accounting </li>
 <li> Managerial Accounting for Decision Making </li>
 <li> Financial Decision Making </li>
-<li> Corporate Financial Problems </li>
-<li> Financial Markets & Institutions </li>
 <li> Multinational Financial Management </li>
 <li> Introduction to Marketing </li>
-<li> Methods of Marketing Research </li>
 <li> Leading High Performance Organizations </li>
 <li> Business Policy & Strategy </li>
 <li> Foundations of Business Law </li>
 <li> Business for the Public Good </li>
-<li> Understanding Financial Statements </li>
-<li> Analytics I, II, III Sequence </li>
 <br>
 <p> Several presentation skills were developed as I worked individually and in groups. It was very insightful to learn how to present on multiple mediums, cater to variety of audience types, learning various tools and techniques, how to be creative etc. </p>
-<p> Find some of my work from classes <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/tree/main/Application%20%26%20Practice'>here! </a> </p>
 
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/202770254-427e1c4a-1184-4f6c-8a23-73533d674c13.png" height=50 width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
