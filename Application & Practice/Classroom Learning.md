@@ -4,24 +4,20 @@
 
 ## PART 1 - ANALYTICS
 <p> The Business Information & Analytics department at the Daniels College of Business has formed a strong and rigorous undergraduate program. It exposed students to exxtensive coding work. The best part was that the focus was not the programming language and its syntax. The aim was to make us better decision makers, learn how to work with data, what data in front us means, and learn application of technical skills across sectors in business. </p>
-<p> Find below screenshots of coding work that I did. </p>
 
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%20Analytics%20Code%20Samples.zip'><img src="https://user-images.githubusercontent.com/116829793/227267758-3ce1970d-8303-4f13-8d6a-7719fe196a3c.png" width=260> </a>
+
 #### Python
 Basic usage of Python and exploring its use for formatting and statistical purposes.
 <li> Packages Used - </li>
 <li> Applications - </li>
 <br>
 
-
 #### VBA
 Visual Basic was used for us to understand how to code within Excel. I was introduced to the basics of the syntax.
-<img src="https://user-images.githubusercontent.com/116829793/202823920-29165bdb-0fa3-44e1-95da-2ae1baf96b6b.png"> 
-
-<p> <b> For building a mortgage schedule: </b> </p>
- <img src="https://user-images.githubusercontent.com/116829793/202824146-9833785b-80d6-4484-ba53-2acd6e1a17d8.png"> 
- 
-
+<li> Features Used - </li>
+<li> Applications - </li>
+<br>
 
 #### R
 The use of R was for a financial modelling class. 
@@ -41,8 +37,7 @@ The use of R was for a financial modelling class.
 #### SQL
 Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/Visual Studio applications. SQL used to create databases, data marts, query databases etc.
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226754696-7420f19d-533b-4b2d-97ef-e330638e1b09.png" width=230 /> </a>
-
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226754696-7420f19d-533b-4b2d-97ef-e330638e1b09.png" width=290 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
@@ -72,6 +67,6 @@ Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/
 <br>
 <p> Several presentation skills were developed as I worked individually and in groups. It was very insightful to learn how to present on multiple mediums, cater to variety of audience types, learning various tools and techniques, how to be creative etc. </p>
 
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%20Classwork%20Reports%20and%20Data.zip'><img src="https://user-images.githubusercontent.com/116829793/227274967-bc3c3b89-d9a5-4030-8dea-348d1b6fc801.png" width=320> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
