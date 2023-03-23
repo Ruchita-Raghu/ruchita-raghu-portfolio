@@ -64,4 +64,10 @@ As part of maintaining class engagement and providing "fun" ways of refreshing p
 
 <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
 <p> <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a> </p>
+
+
+<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Download Excel Quiz</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
+
+
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
