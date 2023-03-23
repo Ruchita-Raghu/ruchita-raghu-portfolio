@@ -26,9 +26,10 @@
 
 #### CREATED ACCESS DATABASE
 <p> Download the Microsoft Access Database below </p>
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
 
-<p> <b> Features used in Microsoft Acess - </b>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20Database.accdb'><img src="https://user-images.githubusercontent.com/116829793/227296707-c1ee94fe-d3ff-4edb-9399-8dd7ac4519e3.png" width=480 /> </a>
+
+<p> <b> Features used in Microsoft Access - </b>
 <li> SQL Queries </li>
 <li> Report filters </li> </p>
 
@@ -37,7 +38,7 @@
 
 <br>
 <p> <b> Sample SQL Queries to Extract Data from Database </b> </p>
-<pre> -- BUSINESS QUESTION 1 : Are there products which have not yet been certified?
+<pre> -- BUSINESS QUESTION : Are there products which have not yet been certified?
 SELECT DISTINCT PRODUCT.ProductID, PRODUCT.ProductName, PRODUCT.ProductCategory
 FROM (PRODUCT
 LEFT JOIN PROD_CERT_ACQ
@@ -50,7 +51,7 @@ ORDER BY PRODUCT.ProductCategory;
 -- REASONING : It will be important to know which products are yet to be certified and what categories they belong to. It will be helpful for the company to later think of what certifications they can pursue next.
 -- ANSWER AND INTERPRETATION : There are 23 out of the total 40 products not certified yet. These products belong to different categories like clear products, cold cups, green products etc. There is an indication of divided attention with certifications. The company is trying to certify in many things. They could possibly focus on one category first, specialize in that, then move to the next which also helps in building a competitive edge. </pre>
 
-<pre> -- BUSINESS QUESTION 4 : List the consumers with their last order placed and the order details.
+<pre> -- BUSINESS QUESTION : List the consumers with their last order placed and the order details.
 SELECT CONSUMER.ConsumerFirstName, CONSUMER.ConsumerLastName, [ORDER].OrderDate, PRODUCT.ProductName, SUM(PRODUCT.ProductRetailPrice) AS [Sale amount]
 FROM (CONSUMER
 INNER JOIN [ORDER]
@@ -72,80 +73,31 @@ ORDER BY [ORDER].OrderDate;
 <img src="https://user-images.githubusercontent.com/116829793/202939020-79ef2c31-e7e7-4f20-b4f8-4d46522830ea.png">
 
 #### BUILD SCRIPT FOR OLTP
-<p> OLTP stands for One-Time Language Processing. The database was created using SQL. The database tables are first created by setting all attributes with their constraints. The data for each table was then imported with Bulk Insert statements from csv files. </p>
+<p> OLTP stands for Online Transaction Processing. The database was created using SQL. The database tables are first created by setting all attributes with their constraints. The data for each table was then imported with Bulk Insert statements from csv files. </p>
+<p> Script process - </p>
+<li> Features used in SQL Server - </li>
+<li> Code types used - </li>
 
-Find the entire build script <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/NewBuildEcoProducts.sql">here.</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20NewBuildEcoProducts.sql'><img src="https://user-images.githubusercontent.com/116829793/227299726-fca2df69-9e1f-4f3e-8350-308ac62ae339.png" width=350 /> </a>
 
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
-Find below snapshots of how the code was structured.
-
-<pre> -- EcoProducts database developed and written by Ruchita Raghunandan
--- Written : April 2022 | Updated : October 2022
--- Updated database for Fall 2022 INFO 3300
--- Database being improved for data warehousing
--------------------------------------------------------------
--- Creating database
-IF NOT EXISTS(SELECT * FROM sys.databases
-	WHERE NAME = N'EcoProducts')
-	CREATE DATABASE EcoProducts
-GO
-USE EcoProducts
---
--- Altering the path so the script can find the CSV files 
---
-DECLARE @data_path NVARCHAR(256);
-SELECT @data_path = 'C:\Users\ruchi\Documents\3240 EIM\DB Builds\EcoProductsNewOltp\';
---
--- Delete existing tables
---
-IF EXISTS(
-	SELECT *
-	FROM sys.tables
-	WHERE NAME = N'OrderItem'
-       )
-	DROP TABLE [OrderItem]; </pre>
-<pre>
-CREATE TABLE Consumer
-	(ConsumerID				INT CONSTRAINT pk_consumer_id PRIMARY KEY,
-	ConsumerFirstName			NVARCHAR(30) CONSTRAINT nn_consumer_first_name NOT NULL,
-	ConsumerLastName			NVARCHAR(40) CONSTRAINT nn_consumer_last_name NOT NULL,
-	ConsumerPhoneNo				NVARCHAR(15) CONSTRAINT nn_consumer_phone_no NOT NULL,
-	ConsumerAddress				NVARCHAR(70) CONSTRAINT nn_consumer_address NOT NULL,
-	ConsumerCity				NVARCHAR(30) CONSTRAINT nn_consumer_city NOT NULL,
-	ConsumerState				NCHAR(2)  CONSTRAINT nn_consumer_state NOT NULL,
-	ConsumerZip				NVARCHAR(10) CONSTRAINT nn_consumer_zip NOT NULL,
-	ConsumerShippingChosen			NVARCHAR(40) CONSTRAINT nn_consumer_shipping_chosen NOT NULL,
-	ConsumerMemberCode			INT CONSTRAINT fk_member_consumer FOREIGN KEY REFERENCES ConsumerMembership(ConsumerMemberCode),
-	SubscriptionCode			INT CONSTRAINT fk_subscription_consumer FOREIGN KEY REFERENCES Subscription(SubscriptionCode)
-	); </pre>
-<pre> -- Load table data
-EXECUTE (N'BULK INSERT ConsumerMembership FROM ''' + @data_path + N'ConsumerMembershipData.csv''
-WITH (
-	CHECK_CONSTRAINTS,
-	CODEPAGE=''ACP'',
-	DATAFILETYPE = ''char'',
-	FIELDTERMINATOR= '','',
-	ROWTERMINATOR = ''\n'',
-	KEEPIDENTITY,
-	TABLOCK
-	);
-'); </pre>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20OLTP%20CSVs.zip'><img src="https://user-images.githubusercontent.com/116829793/227303967-ff83027d-095c-4507-89a9-329b4b808142.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
 #### USER DEFINED FUNCTION, STORED PROCEDURE, VIEW SCRIPT
-<p> UDFs and SPROCs were created. Features used - 
+<p> UDFs and SPROCs were created. Features used - </p>
 	<li> Create function, sproc, views, group by etc. </li>
 	<li> Set command with inner joins, begin and end statements, testing UDFs to return one value for state,consumer etc. </li>
-	<li> Length command used, with ifs and else <li>
+	<li> Length command used, with ifs and else </li>
 	<li> UDF 1 Create a function to input the state code/abbreviation that returns that number of orders for that state's consumers. </li>
 	<li> UDF 2 Create a function that returns the retail price of a product on entering its name or ID. </li>
 	<li> SPROC Create a stored procedure that takes a consumer's first and last name and gives the order information for them, separate orders in separate lines. </li>
-	<li> Multiple inner joins, declaring variables, if and else, convert nvarchars, connecting strings/numbers, handling iferror feature with sql. </li> </p>
+	<li> Multiple inner joins, declaring variables, if and else, convert nvarchars, connecting strings/numbers, handling iferror feature with sql. </li>
 	
 
-<p> Download the text file with code for the above. </p>
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
+<p> Access the text file with code for the above. </p>
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProductsSQLScripts.sql'><img src="https://user-images.githubusercontent.com/116829793/227302725-18f4a6e6-3d9a-446f-ac2a-2308f4edaabc.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 <br>
@@ -169,22 +121,22 @@ https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea
 <p> Created documentation and Visual Studio solution to transition from OLTP to OLAP. OLAP stands for..... Created the object worksheet, star schema etc. </p>
 <p> Download the Solution Development Plan, Object Worksheet, STAR Schema files </p>
 
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20Solution%20Documentation.zip'><img src="https://user-images.githubusercontent.com/116829793/227308292-4ad677d9-9bed-4fb1-9a45-8c7dd7f16605.png" width=350 /> </a>
+
+<p> The Datamart was created for....</p>
 
 <img src="https://user-images.githubusercontent.com/116829793/202945019-87dc289e-994c-4c61-8650-ab2d1256d79d.png">
 
 #### PHASE 2 - DM BUILD SCRIPT
 <p> Based on business requirements laid out above, created the datamart build script by denormalizing all data tables in the database. </p>
 
-Find the entire build script <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/BuildEcoProductsDM.sql">here.</a>
-
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%203500%20Proforma%20Excel.xlsx">Download ZIP</a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20BuildEcoProductsDM.sql'><img src="https://user-images.githubusercontent.com/116829793/227309145-0bc0b2d5-1ca5-47c4-aafb-44b8b5072116.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
 
 #### PHASE 3 - ETL - EXTRACT, TRANSFORM, LOAD
-<p> Explan ETL process </p>
+<p> Explain ETL process </p>
 <p> Features used and lessons learned </p>
 
 <img src="https://user-images.githubusercontent.com/116829793/202946122-33e771e2-76dc-4bfb-b487-020043a19eff.png">
