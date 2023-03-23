@@ -151,7 +151,7 @@ https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea
 <p> Explain process, features used, DAX etc. </p>
 <img src="https://user-images.githubusercontent.com/116829793/202948295-0c366311-8f9d-4a4f-8896-c93bf826a99f.png">
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20DataMart%20Reporting.zip'><img src="https://user-images.githubusercontent.com/116829793/227311602-cd635026-9c13-4b50-99e4-4371af59f359.png" width=350 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20DataMart%20Reporting.zip'><img src="https://user-images.githubusercontent.com/116829793/227311900-e00457e6-eda4-4c6c-aa5e-209a1c095b3f.png" width=350 /> </a>
 <br>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
