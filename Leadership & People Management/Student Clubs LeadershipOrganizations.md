@@ -10,8 +10,7 @@
 
 #### RESPONSIBILITIES & LEADING PEOPLE
 <p> The Finance Club was mostly forgotten about during the pandemic since we were completely remote. When I started as President in June 2021, the campus was back in person. </p>
-<p> My aim - get the club back on its feet. More engagement and scale. New people. New ideas. Continued and sustainable event planning. </p>
-<br>
+<p> My aim - To get the club back on its feet. More engagement and scale. New people. New ideas. Continued and sustainable event schedules. </p>
 <br>
 <p> Lessons on the job - </p>
 <li> Be forward looking. What Next? Where are we headed? </li>
