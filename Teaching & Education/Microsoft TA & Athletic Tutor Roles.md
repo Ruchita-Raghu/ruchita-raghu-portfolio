@@ -62,12 +62,6 @@ This role developed my critical thinking skills as I came up with multiple metho
 ##### REVISION METHODS
 As part of maintaining class engagement and providing "fun" ways of refreshing previous class material, I created online games for students. Questions were geared towards course content but provided a new way to learn.
 
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Excel Kahoot</a>
-<p> <a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf">PowerPoint Kahoot</a> </p>
-
-
-<a href="https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf">Download Excel Quiz</a>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
-
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20EXCEL%20LAB%20REVIEW%20-%20Kahoot!.pdf'> <img src="https://user-images.githubusercontent.com/116829793/227254870-100fbb18-1596-45f8-8233-11edbe6cc8e9.png" width=230 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Teaching%20%26%20Education/Ruchita%20-%20PPT%20LAB%20REVIEW%20-%20Kahoot!.pdf'> <img src="https://user-images.githubusercontent.com/116829793/227255058-bca450e3-c964-4d98-81e5-f2ccb9d90502.png" width=260 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20&%20Education/Microsoft%20TA%20&%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
