@@ -13,6 +13,9 @@ This role developed my public speaking, communication, inter-personal, people ma
 As an Athletic Tutor, I was given several classes to tutor for. A challenging role since many students request tutoring for tough classes, the ones in which I may not be good either. For exmaple, concepts in multinational finance including foreign exchange, hedging, options, pricing, and currency swaps are tougb to teach. These topics are not my strength so, I had to put several hours of preparation.
 This role developed my critical thinking skills as I came up with multiple methods of explanations. I had to learn to be available, flexible, understanding, and patient.
 
+<img src="https://user-images.githubusercontent.com/116829793/228973775-11b5c0df-04d0-4441-997e-999992f5c40f.png" height="400" width="500"> <img src="https://user-images.githubusercontent.com/116829793/228973964-c465cad9-0f6c-4032-8e53-d930b4e394dc.png" height="400" width="500">
+
+
 ##### METHODS OF TEACHING
 <i> Tutoring Practices & Challenges </i>
 <li> Explaining concepts - Be extremely careful and not give away answers for assignments </li>
