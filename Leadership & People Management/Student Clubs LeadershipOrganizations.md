@@ -28,7 +28,7 @@
 <li> Created a Teams group - divide channels, organize folders, upload files, store data in one repository. </li>
 <li> Visualized events for whole team - created calendar for the academic year. </li>
 <li> Provide templates and samples from previous years - Sample event protocol, how to write emails to finance professors, how to form invites, where to find data and so on. </li>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20%26%20People%20Management/'> <img src="https://user-images.githubusercontent.com/116829793/226460534-1b22844e-38c8-41f1-b8d0-aaed33bacd30.png" width=260 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Leadership%20%26%20People%20Management/Ruchita%20-%20Leadership%20Work%20Samples.zip'> <img src="https://user-images.githubusercontent.com/116829793/228966346-436e3859-e45e-4f35-99c9-526dd307b6e5.png" width=400 /> </a>
 <br>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md#club-leadership'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
