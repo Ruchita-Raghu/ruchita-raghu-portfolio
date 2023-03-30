@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#daniels-distinction-portfolio'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
 # CLUB LEADERSHIP
 #### SUMMARY
 <p> Undergraduate student clubs provide several opportunities to make friends, network, learn, explore etc. The most important and crucial opportunity being leadership. I joined two executive boards for student organizations - Undergraduate Women in Business and Finance Club. 
