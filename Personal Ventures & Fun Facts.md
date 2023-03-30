@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#daniels-distinction-portfolio'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
 # GLOBAL/INTER-CULTURAL EXPERIENCES & COMMUNITY ENGAGEMENT
 #### SUMMARY
 <p> The specialty about India is that every state has its own culture, language, food, customs etc. My parents are from different states and worked in a city different than their hometowns. Because of that, with ease and joy, I embrace the cultures of Tamil Nadu, Karnataka, and New Delhi. Understanding the multi-cultural world comes easily to me. I highly encourage the value that diversity and inclusivity bring to a person. </p>
