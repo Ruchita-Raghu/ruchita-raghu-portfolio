@@ -18,6 +18,8 @@
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/226230129-fb5be273-8464-4444-8f06-06890cf6ce22.png" width=450 /> </a>
 
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/228963878-b044447f-3ae8-4d39-bab9-a9e51d9665d3.png" width=450 /> </a>
+
 <h3> EDUCATION </h3>
 <b> University of Denver, Daniels College of Business, Bachelor of Science Business Administration </b>
 <li> Finance, Business Information & Analytics (STEM designated with OPT extension) </li>
