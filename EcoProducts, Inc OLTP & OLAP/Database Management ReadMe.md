@@ -22,22 +22,23 @@
 <p> In addition to product and supplier certifications, there are substrates (underlying material or layer) that the company deems as the top five important eco-friendly material that make their products differentiate from competitors and reduce harm after disposal. The company encourages the use of these material in as many of their products as possible. It is imperative to “enter” data on a continuous basis for these stated metrics because this guides the company towards its goal, and it will help them stay on track.</p>
 
 #### ENTITY-RELATIONSHIP DIAGRAM (ERD)
-<img src="https://user-images.githubusercontent.com/116829793/202918596-2db470e7-6a0d-4cd2-94f8-6050ce451fa4.png" height=700 width=900>
+<p> An Entity Relationship Diagram (ERD) is abstructural diagram used when designing the structure of databases. It contains different symbols and connectors that visualize two things: the major entities and the inter-relationships among them. It is built keeping in mind the above business problem and available data. </p>
+<img src="https://user-images.githubusercontent.com/116829793/202918596-2db470e7-6a0d-4cd2-94f8-6050ce451fa4.png" height=400 width=600>
 
 #### CREATED ACCESS DATABASE
+<p> Microsoft Access was utilized to load all the data and create a database on the personal system. </p>
 <p> Download the Microsoft Access Database below </p>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20Database.accdb'><img src="https://user-images.githubusercontent.com/116829793/227296707-c1ee94fe-d3ff-4edb-9399-8dd7ac4519e3.png" width=480 /> </a>
 
-<p> <b> Features used in Microsoft Access - </b>
-<li> SQL Queries </li>
-<li> Report filters </li> </p>
-
-<p> <b> Sample report </b> </p>
-<img src="https://user-images.githubusercontent.com/116829793/202918897-ceb6f612-61f0-49a1-8181-7c65374b072f.png" height=300 width=500>
+<p> <b> Features used in Microsoft Access </b>
+<li> Loading Data - Imported several excel sheets with data, conducted data cleaning </li>
+<li> Keys and Connections - Primary keys were established, connected all tables and constructed the ERD within Access </li>
+<li> SQL Queries - Stored several SQl queries which involved extracting data from multiple tables at once. These queries helped bring data to surface based on what the business question is. </li>
+<li> Reports - Reports were also built within Access including buttons, report filters, SQL queries embedded, multiple tabs/pages to switch etc. These reports presented a "better" view for senior executives and managers. </li> </p>
 
 <br>
-<p> <b> Sample SQL Queries to Extract Data from Database </b> </p>
+<p> <b> Find below sample SQL Queries to Extract Data from Database </b> </p>
 <pre> -- BUSINESS QUESTION : Are there products which have not yet been certified?
 SELECT DISTINCT PRODUCT.ProductID, PRODUCT.ProductName, PRODUCT.ProductCategory
 FROM (PRODUCT
@@ -70,31 +71,49 @@ ORDER BY [ORDER].OrderDate;
 
 ## PART 2 - OLTP ON MICROSOFT SQL SERVER
 #### ENTITY RELATIONSHIP DIAGRAM IMPROVISED
-<img src="https://user-images.githubusercontent.com/116829793/202939020-79ef2c31-e7e7-4f20-b4f8-4d46522830ea.png">
+<p> Based on feedback and suggestions, the ERD was improvised to include more meaningful data for analysis. </p>
+<img src="https://user-images.githubusercontent.com/116829793/202939020-79ef2c31-e7e7-4f20-b4f8-4d46522830ea.png" height=500 width=900>
 
 #### BUILD SCRIPT FOR OLTP
-<p> OLTP stands for Online Transaction Processing. The database was created using SQL. The database tables are first created by setting all attributes with their constraints. The data for each table was then imported with Bulk Insert statements from csv files. </p>
-<p> Script process - </p>
-<li> Features used in SQL Server - </li>
-<li> Code types used - </li>
+<p> OLTP stands for Online Transaction Processing. The database was created using SQL using Microsoft SQL Server. The database tables are first created by setting all attributes with their constraints. The data for each table was then imported with Bulk Insert statements from csv files. </p>
 
+<li> Features used in SQL Server - SQL Server Configuration Manager, SQL Server Management Studio, SQL Server Integration Services, SQL Server Analysis Services, SQL Server Reporting Services. </li>
+<li> Engaged with database objects - Datbases, transaction log, tables, views, Stored Procedures, User-defined functions, users and roles </li>
+<li> Types of code used in T-SQL - 
+ <ul>
+	 <li> CREATE DATABASE/TABLE/VIEW </li>
+	 <li> SELECT/FROM/WHERE/GROUP BY/HAVING/ORDER BY </li>
+	 <li> USE, GO, CONSTRAINT, NOT NULL </li>
+	 <li> PRIMARY/FOREIGN KEY with REFERENCES </li>
+	 <li> data types NVARCHAR/INT/MONEY/DATE/TIME </li> 
+	 <li> Relational operators =, <, >, <> </li> 
+	 <li> Logical operators such as ALL, AND, OR, EXISTS, IN, SOME, ANY, BETWEEN/AND, IS NULL, LIKE </li> 
+         <li> Date and Time functions such as DATEADD, DATEDIFF, DATEPART, DAY etc. </li>
+	 <li> Working with data CONVERT, COALESCE, AVG, COUNT, SUM, DISTINCT COUNT, IF-THEN-ELSE, CASE, ROLLUP </li>
+	 <li> Joins - INNER JOIN, LEFT/RIGHT JOIN, OUTER JOIN, UNION </li>
+		 </ul></li>
+
+<p> Process to build script </p>
+	<li> Scripts were created in batches with GO statements </li>
+	 <li> We began with creating the database, declaring a path to access the data files </li>
+	 <li> If and where statments to drop existing tables if they exist, to allow for re-run of code </li>
+	 <li> Create tables with setting data types, constraints, foreign and primary keys </li>
+	 <li> In the end, the Execute bulk and Insert Into statements were used to load data from Excel/csv files to the server </li>
+		 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20NewBuildEcoProducts.sql'><img src="https://user-images.githubusercontent.com/116829793/227299726-fca2df69-9e1f-4f3e-8350-308ac62ae339.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20OLTP%20CSVs.zip'><img src="https://user-images.githubusercontent.com/116829793/227303967-ff83027d-095c-4507-89a9-329b4b808142.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts,%20Inc%20OLTP%20&%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
-#### USER DEFINED FUNCTION, STORED PROCEDURE, VIEW SCRIPT
-<p> UDFs and SPROCs were created. Features used - </p>
-	<li> Create function, sproc, views, group by etc. </li>
-	<li> Set command with inner joins, begin and end statements, testing UDFs to return one value for state,consumer etc. </li>
-	<li> Length command used, with ifs and else </li>
-	<li> UDF 1 Create a function to input the state code/abbreviation that returns that number of orders for that state's consumers. </li>
-	<li> UDF 2 Create a function that returns the retail price of a product on entering its name or ID. </li>
-	<li> SPROC Create a stored procedure that takes a consumer's first and last name and gives the order information for them, separate orders in separate lines. </li>
-	<li> Multiple inner joins, declaring variables, if and else, convert nvarchars, connecting strings/numbers, handling iferror feature with sql. </li>
-	
-
+#### USER DEFINED FUNCTION (UDF), STORED PROCEDURE (SPROC), VIEW SCRIPT
+<p> UDFs and SPROCs were created </p>
+	<li> Create statements for function, sproc, views were set up in batches </li>
+	<li> The SET command with INNER JOINs was used, BEGIN and END statements, test commands were also run to return error messages if value not found </li>
+	<li> UDF 1 - Create a function to input the state code/abbreviation that returns that number of orders for that state's consumers. </li>
+	<li> UDF 2 - Create a function that returns the retail price of a product on entering its name or ID. </li>
+	<li> SPROC - Create a stored procedure that takes a consumer's first and last name and gives the order information for them, separate orders in separate lines. </li>
+<br>
 <p> Access the text file with code for the above. </p>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProductsSQLScripts.sql'><img src="https://user-images.githubusercontent.com/116829793/227302725-18f4a6e6-3d9a-446f-ac2a-2308f4edaabc.png" width=350 /> </a>
