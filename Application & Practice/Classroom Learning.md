@@ -1,4 +1,4 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#welcome-my-name-is-ruchita-raghunandan-here-is-a-little-about-me-and-my-work'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#daniels-distinction-portfolio'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
 # COMPREHENSIVE UNDERGRADUATE PROGRAM AND STUDENT DEVELOPMENT
 <p> Find below a compilation of classwork from college. The diverse and comprehensive coursework enhanced several skills for me. It has improved my critical thinking, problem solving, creative thinking, communication, and teamwork. </p>
 
