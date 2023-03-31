@@ -20,4 +20,4 @@
 ### ETHICS IN MY FIELD
 <p> Importance of ethics and challenges in the audit industry </p>
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/edit/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20&%20Decision%20Making.md#ethical-decision-making'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
+<a href=''> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
