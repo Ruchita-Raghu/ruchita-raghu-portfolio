@@ -54,11 +54,24 @@
 <img src ="https://user-images.githubusercontent.com/116829793/202885371-674ec65a-b59a-4019-b4ae-36047fe534f9.jpg" height=280 width=330>
 
 ### TUTORING YOUNG KIDS
-
+<p> Hindi is one of the languages I speak, perhaps the official language of India. I was offered to tutor children, ages 5 and 7, in this language. Their parents are Indian and they wanted their children to be familiar with their mother tongue. </p>
+<li> The tutoring sessions were over Zoom! </li>
+<li> The children were not familiar with the language at all </li>
+<li> Prepared easy, basic language content over Google docs </li>
+<li> Catered to "young" and new learning styles - prepared games, offered simple exercises, prepared fun learning quizzes, showed video clips introducing Indian culture, watched Hindi movies on Zoom etc. </li>
+<li> Made the language relevant for the children to use with family and friends </li>
+<img src ="https://user-images.githubusercontent.com/116829793/228992096-c15b7b33-4ac3-43e3-97ea-31b81338324d.jpg" height=450 width=470> 
+ 
 ### SHIVOHAM SCHOOL OF DANCE
+<p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. ALong with college workload, attended weekly practice sessions. </p>
+<li> Kept alive my culture and tradition </li>
+<li> An opportunity to showcase my country's heritage in a different country </li>
+<li> Increased involvement off-campus and enhanced extra-curricular activities </li>
+<li> Enables me to focus on health and fitness during stressful times also </li>
+<li> Participated in fundraisers and other Denver, city wide events </li>
+<li> Built a sense of community with dance teacher and fellow disciples in a new city! </li>
 
-### CONNECTION TO CAREER
-<p> Draw connections to Arrow/EY, MOS, apply knowledge at work </p>
+<img src ="https://user-images.githubusercontent.com/116829793/228993083-6f23d6d1-cccd-4298-8042-b8063c1869ca.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993131-901cc50f-76f5-44ec-8dd1-6280e872ca99.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993155-044298b2-cf6e-4e2e-a1ff-e8062e4ccedb.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993188-8ec35c31-656b-47f9-a270-36c83b7398cc.jpg" height=350 width=260>
 
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#fun-experiences-and-snapshots-from-exciting-ventures'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
