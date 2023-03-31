@@ -45,10 +45,13 @@
 
 
 ### DANCE COMPETITIONS AND PERFORMANCES IN HIGH SCHOOL
-<p> Participated in several individual and group dance for my high school. I was awarded the position of Dance Secretary (Indian Dance) in the Student Council as well! </p>
-<p> Role of variety of dances and takeaways </p>
-<p> Teamwork and leadership at early age </p>
-<p> Achievements through dance </p>
+<p> Participated in several individual and group dance events for my school in India. I was awarded the position of Dance Secretary (Indian Dance) in the Student Council in the 11th and 12th grade! </p>
+<li> Attempts several different dance forms with peers, learnt and adapted to what the school needs, learnt to the art of being flexible and moldable as a dancer for a choreographer </li>
+<li> Managed and executed the farewell function for graduating seniors. Choreographed and taught 200 students to perform on stage for seniors </li>
+<li> Competitions taught me team work and leadership at an early age </li>
+<li> Received recognition and appreciation across generations for dance, hard work, and potential in this field </li>
+
+<p> Here are snapshots from a few school performances and me receiving my Dance Secretary position in the Student Council </p>
 
 <img src ="https://user-images.githubusercontent.com/116829793/202885321-00aa6a32-f0ed-43bf-a500-5d8f9f1a5b8a.jpg" height=280 width=250> <img src ="https://user-images.githubusercontent.com/116829793/202885350-211fbf9e-e777-4c35-b57c-609f8a55fdd6.jpg" height=280 width=300>
 <img src ="https://user-images.githubusercontent.com/116829793/202885371-674ec65a-b59a-4019-b4ae-36047fe534f9.jpg" height=280 width=330>
