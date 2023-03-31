@@ -10,7 +10,7 @@
 <p> Regardless of who is in front of me, I try to be the best version of myself for them </p>
 <li> If they are my family, I attempt to help them in chores, give support, stay together and more. </li>
 <li> If they are my students, I need to prepare the best lecture and provide all the necessary knowledge and information. </li>
-<li> If they are just acquaintances, I should be kind and gentle, and greet them. </li>
+<li> If they are acquaintances, I should be kind and gentle, and greet them. </li>
 <li> Even if I see someone on the bus daily, they form part of my community! </li>
 
 <p> Here are some experiences that have informed me more about the world, its diversity, and how I get involved with several communities around! </p>
@@ -56,15 +56,6 @@
 <img src ="https://user-images.githubusercontent.com/116829793/202885321-00aa6a32-f0ed-43bf-a500-5d8f9f1a5b8a.jpg" height=280 width=250> <img src ="https://user-images.githubusercontent.com/116829793/202885350-211fbf9e-e777-4c35-b57c-609f8a55fdd6.jpg" height=280 width=300>
 <img src ="https://user-images.githubusercontent.com/116829793/202885371-674ec65a-b59a-4019-b4ae-36047fe534f9.jpg" height=280 width=330>
 
-### TUTORING YOUNG KIDS
-<p> Hindi is one of the languages I speak, perhaps the official language of India. I was offered to tutor children, ages 5 and 7, in this language. Their parents are Indian and they wanted their children to be familiar with their mother tongue. </p>
-<li> The tutoring sessions were over Zoom! </li>
-<li> The children were not familiar with the language at all </li>
-<li> Prepared easy, basic language content over Google docs </li>
-<li> Catered to "young" and new learning styles - prepared games, offered simple exercises, prepared fun learning quizzes, showed video clips introducing Indian culture, watched Hindi movies on Zoom etc. </li>
-<li> Made the language relevant for the children to use with family and friends </li>
-<img src ="https://user-images.githubusercontent.com/116829793/228992096-c15b7b33-4ac3-43e3-97ea-31b81338324d.jpg" height=450 width=470> 
- 
 ### SHIVOHAM SCHOOL OF DANCE
 <p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. ALong with college workload, attended weekly practice sessions. </p>
 <li> Kept alive my culture and tradition </li>
@@ -76,5 +67,13 @@
 
 <img src ="https://user-images.githubusercontent.com/116829793/228993083-6f23d6d1-cccd-4298-8042-b8063c1869ca.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993131-901cc50f-76f5-44ec-8dd1-6280e872ca99.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993155-044298b2-cf6e-4e2e-a1ff-e8062e4ccedb.jpg" height=350 width=370> <img src ="https://user-images.githubusercontent.com/116829793/228993188-8ec35c31-656b-47f9-a270-36c83b7398cc.jpg" height=350 width=260>
 
+### TUTORING YOUNG KIDS
+<p> Hindi is one of the languages I speak, perhaps the official language of India. I was offered to tutor children, ages 5 and 7, in this language. Their parents are Indian and they wanted their children to be familiar with their mother tongue. </p>
+<li> The tutoring sessions were over Zoom! </li>
+<li> The children were not familiar with the language at all </li>
+<li> Prepared easy, basic language content over Google docs </li>
+<li> Catered to "young" and new learning styles - prepared games, offered simple exercises, prepared fun learning quizzes, showed video clips introducing Indian culture, watched Hindi movies on Zoom etc. </li>
+<li> Made the language relevant for the children to use with family and friends </li>
+<img src ="https://user-images.githubusercontent.com/116829793/228992096-c15b7b33-4ac3-43e3-97ea-31b81338324d.jpg" height=450 width=470> 
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#fun-experiences-and-snapshots-from-exciting-ventures'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
