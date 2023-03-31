@@ -18,7 +18,7 @@
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/226230129-fb5be273-8464-4444-8f06-06890cf6ce22.png" width=450 /> </a>
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20%26%20Decision%20Making.md#ethical-dilemmas--decision-making'> <img src="https://user-images.githubusercontent.com/116829793/228964141-ca0d30dd-41a0-4720-addb-db5591104730.png" width=450 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20&%20Decision%20Making.md#ethical-decision-making'> <img src="https://user-images.githubusercontent.com/116829793/228964141-ca0d30dd-41a0-4720-addb-db5591104730.png" width=450 /> </a>
 
 <h3> EDUCATION </h3>
 <b> University of Denver, Daniels College of Business, Bachelor of Science Business Administration </b>
