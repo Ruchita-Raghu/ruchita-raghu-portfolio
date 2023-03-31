@@ -58,6 +58,7 @@
 
 ### SHIVOHAM SCHOOL OF DANCE
 <p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. ALong with college workload, attended weekly practice sessions. </p>
+<li> Developed ability to communicate with any language or community through the means of dance - express feelings from the entire spectrum, represent challenges common to all, and help form a bridge with fellow artists to join the world </li>
 <li> Kept alive my culture and tradition </li>
 <li> An opportunity to showcase my country's heritage in a different country </li>
 <li> Increased involvement off-campus and enhanced extra-curricular activities </li>
