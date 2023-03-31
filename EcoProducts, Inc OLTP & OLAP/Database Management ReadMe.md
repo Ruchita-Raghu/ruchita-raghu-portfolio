@@ -137,17 +137,17 @@ https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea
 
 ## PART 3 - OLAP IN MICROSOFT SQL SERVER, VISUAL STUDIO, POWER BI
 #### PHASE 1 - SOLUTION DOCUMENTATION
-<p> Created documentation and Visual Studio solution to transition from OLTP to OLAP. OLAP stands for..... Created the object worksheet, star schema etc. </p>
-<p> Download the Solution Development Plan, Object Worksheet, STAR Schema files </p>
+<p> Created documentation and Visual Studio solution to transition from OLTP to OLAP. OLAP stands for Online Analytical Processing, a system for performing multi-dimensional analysis for larger volumes of data. This part of the project focuses on preparing for data warehouses/data marts. </p>
+<p> To transition from databases used on a daily basis to a data mart which analyzes data from time-to-time, considering historical data. Find below the Solution Development Plan, Object Worksheet, STAR Schema files </p>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20Solution%20Documentation.zip'><img src="https://user-images.githubusercontent.com/116829793/227308292-4ad677d9-9bed-4fb1-9a45-8c7dd7f16605.png" width=350 /> </a>
 
-<p> The Datamart was created for....</p>
+<p> The Data Mart was created for the sales data of the company. The information package for the Data Mart is shown below. It basically "combines" the data from different tables into few dimensions. We are trying to analyze sales through price, quantity, and revenue. </p>
 
 <img src="https://user-images.githubusercontent.com/116829793/202945019-87dc289e-994c-4c61-8650-ab2d1256d79d.png">
 
-#### PHASE 2 - DM BUILD SCRIPT
-<p> Based on business requirements laid out above, created the datamart build script by denormalizing all data tables in the database. </p>
+#### PHASE 2 - BUILD DATA MART SCRIPT
+<p> Based on business requirements laid out above, created the Data Mart build script by denormalizing all data tables in the database. SQL was used for this script.</p>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20BuildEcoProductsDM.sql'><img src="https://user-images.githubusercontent.com/116829793/227309145-0bc0b2d5-1ca5-47c4-aafb-44b8b5072116.png" width=350 /> </a>
 
@@ -155,19 +155,25 @@ https://user-images.githubusercontent.com/116829793/203178196-c6ddf8c5-721e-4dea
 
 
 #### PHASE 3 - ETL - EXTRACT, TRANSFORM, LOAD
-<p> Explain ETL process </p>
-<p> Features used and lessons learned </p>
+<p> E stands for extracting the data from the OLTP source, T stands for transforming data into clean, consistent, and reliable data, L stands for loading it into OLAP destination. </p>
+<p> Features used - </p>
+<li> Process with SSIS used </li>
+<li> Visual Studio SSIS packages, connection managers, control flows, data flows etc. </li>
 
-<img src="https://user-images.githubusercontent.com/116829793/202946122-33e771e2-76dc-4bfb-b487-020043a19eff.png">
-<img src="https://user-images.githubusercontent.com/116829793/202946191-e3ff20d4-75c2-470b-be11-b1e209bad6fa.png">
+<p> Here is how the ETL flow looks like in Visual Studio - </p>
+	 
+<img src="https://user-images.githubusercontent.com/116829793/202946122-33e771e2-76dc-4bfb-b487-020043a19eff.png" height=400 width=500>
+<img src="https://user-images.githubusercontent.com/116829793/202946191-e3ff20d4-75c2-470b-be11-b1e209bad6fa.png" height=400 width=500>
 
 #### PHASE 4 - POWER PIVOT MULTIDIMENSIONAL ANALYSIS
-<p> Explain process and features used </p>
-
+<p> For multi-dimensional analysis, the Power Pivot tool in Microsoft Excel was used. The data was brought in/connected to the Data Mart built. After which, all the reporting was done on Excel. </p>
+<li> Excel features used - Pivot Tables, Pivot Charts, Conditional formatting, Slicers, presentation skills etc. </li>
+<li> DAX measures were implemented within Power Pivot such as SUMX, COUNTROWS, DISTINCTCOUNT, CALCULATE, TOTALYTD, DATESBETWEEN, nested IF etc. </li>
+	 
 <img src="https://user-images.githubusercontent.com/116829793/202946361-7ff5f53f-2eb0-4010-8f47-0213b0854867.png">
 
 #### PHASE 5 - POWERBI DASHBOARD REPORTING
-<p> Explain process, features used, DAX etc. </p>
+<p> Utilized Microsoft PowerBI to enhance the reporting method. The dashboard created uses the same Data Mart. However, the dashboard uses more complex DAX formulas, includes inter-connected reports, has better user experience, and increases access to effective reports. </p>
 <img src="https://user-images.githubusercontent.com/116829793/202948295-0c366311-8f9d-4a4f-8896-c93bf826a99f.png">
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Ruchita%20-%20EcoProducts%20DataMart%20Reporting.zip'><img src="https://user-images.githubusercontent.com/116829793/227311900-e00457e6-eda4-4c6c-aa5e-209a1c095b3f.png" width=350 /> </a>
