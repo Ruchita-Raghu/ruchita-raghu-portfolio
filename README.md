@@ -9,7 +9,7 @@
 <b> University of Denver, Daniels College of Business, Bachelor of Science Business Administration </b>
 <li> Finance, Business Information & Analytics (STEM designated with OPT extension) </li>
 <li> University Honors Program </li>
-<li> Chancellor’s Scholarship recipient, Aegon Transamerica FND Scholar, Dean’s List </li>
+<li> Chancellor’s Scholarship recipient, Aegon Transamerica FND Scholar, Dean’s List, Hornbeck Scholar </li>
 <li> GPA – 3.97 </li>
 <br>
 <b> Delhi Public School, Senior Secondary School, Noida Uttar Pradesh, India </b>
