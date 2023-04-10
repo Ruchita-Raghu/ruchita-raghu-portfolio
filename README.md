@@ -23,7 +23,21 @@
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226442349-695058ab-87d2-4915-9a7f-ab62e87cb61c.png" width=230 /> </a>
 <br>
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png" width=500> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226229930-5302893f-2afc-472b-9920-17a43737843a.png" width=500 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md'> <img src="https://user-images.githubusercontent.com/116829793/226230000-bf6a3a16-e5d4-4132-9fe1-648122ccc5ee.png" width=500 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md'> <img src="https://user-images.githubusercontent.com/116829793/226228794-1df1ed6d-b669-4246-9845-3fd1e3ad556d.png" width=500 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226230053-f04962a5-85e9-4dc9-a6de-7b71e3e95b84.png" width=500 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/226230129-fb5be273-8464-4444-8f06-06890cf6ce22.png" width=500 /> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20&%20Decision%20Making.md#ethical-decision-making'> <img src="https://user-images.githubusercontent.com/116829793/228964141-ca0d30dd-41a0-4720-addb-db5591104730.png" width=500 /> </a>
+<h3> ACCESS MY PORTFOLIO LINKS BELOW </h3>
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226229865-2d8972e2-22aa-4900-abf0-d46de58527b1.png" width=500> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226229930-5302893f-2afc-472b-9920-17a43737843a.png" width=500 /> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md'> <img src="https://user-images.githubusercontent.com/116829793/226230000-bf6a3a16-e5d4-4132-9fe1-648122ccc5ee.png" width=500 /> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md'> <img src="https://user-images.githubusercontent.com/116829793/226228794-1df1ed6d-b669-4246-9845-3fd1e3ad556d.png" width=500 /> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226230053-f04962a5-85e9-4dc9-a6de-7b71e3e95b84.png" width=500 /> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20%26%20Fun%20Facts.md'> <img src="https://user-images.githubusercontent.com/116829793/226230129-fb5be273-8464-4444-8f06-06890cf6ce22.png" width=500 /> </a> 
+
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20&%20Decision%20Making.md#ethical-decision-making'> <img src="https://user-images.githubusercontent.com/116829793/228964141-ca0d30dd-41a0-4720-addb-db5591104730.png" width=500 /> </a>
 
 
 <h3> LINKEDIN PROFILE </h3>
