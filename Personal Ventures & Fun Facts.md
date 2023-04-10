@@ -5,6 +5,7 @@
 <p> Specialities! - 
  <li> Speak 4 languages - English, Hindi, Kannada, Tamil </li>
  <li> Cultural adaptation - multiple dances, songs, food! </li> </p>
+<img src="https://user-images.githubusercontent.com/116829793/230808235-1204b870-55e9-4eb3-81c6-4b4ebf17efcd.png" width=500>
 
 <p> My up-bringing and taught family values encourage me to be an involved member in the community. A community to me means the various different people and groups of people I meet on a daily basis. In this sense, there are several communities I am a part of. They could be my family, friends, neighbors, classmates, co-workers, peers, mentors, students etc. I interact with each community differently since my relation with them is different. </p>
 <p> Regardless of who is in front of me, I try to be the best version of myself for them </p>
@@ -12,6 +13,9 @@
 <li> If they are my students, I need to prepare the best lecture and provide all the necessary knowledge and information. </li>
 <li> If they are acquaintances, I should be kind and gentle, and greet them. </li>
 <li> Even if I see someone on the bus daily, they form part of my community! </li>
+<br>
+<p> Here's my international travel experience so far! </p>
+<img src="https://user-images.githubusercontent.com/116829793/230809167-1c71ee65-86a2-4e77-b103-95a61b563cb9.png">
 
 <p> Here are some experiences that have informed me more about the world, its diversity, and how I get involved with several communities around! </p>
 
