@@ -5,7 +5,11 @@
 My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions.
 I have experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. I gained leadership experience facilitating group tasks, teaching students, and running student organizations. I am confident about my excellent communication skills, interpersonal skills, and proficiency in four languages.
 With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. 
-<br>
+
+<p> Here is a glimpse of my professional career start at DU!! </p>
+
+<img src="https://user-images.githubusercontent.com/116829793/230811664-07d9f493-b4c5-411d-b6e7-892e0f7e764f.png">
+
 <h2> Internship Positions </h2>
 <b> EY FSO Business Consulting (Technology Risk) Intern </b>
 <p> <b> Ernst & Young US, LLP (Denver, CO) </b>
