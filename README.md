@@ -12,7 +12,7 @@
 <li> Chancellor’s Scholarship recipient, Aegon Transamerica FND Scholar, Dean’s List, Hornbeck Scholar </li>
 <li> GPA – 3.97 </li>
 <br>
-<b> Delhi Public School, Senior Secondary School, Noida Uttar Pradesh, India </b>
+<b> Delhi Public School, Senior Secondary School, Noida, Uttar Pradesh, India </b>
 <li> Business Administration (General) </li>
 <li> Percentage - 96.4% </li>
 <li> Subjects: Accountancy, Business Studies, Economics, Mathematics, English </li>
