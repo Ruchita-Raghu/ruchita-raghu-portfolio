@@ -20,7 +20,7 @@
 <h3> WORK EXPERIENCE </h3>
 <p> My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions. </p>
 <p> With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226442349-695058ab-87d2-4915-9a7f-ab62e87cb61c.png" width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md'> <img src="https://user-images.githubusercontent.com/116829793/226442349-695058ab-87d2-4915-9a7f-ab62e87cb61c.png" width=360 /> </a>
 <br>
 <br>
 <h3> ACCESS MY PORTFOLIO LINKS BELOW </h3>
