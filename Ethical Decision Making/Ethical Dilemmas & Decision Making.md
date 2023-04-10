@@ -19,5 +19,8 @@
 
 ### ETHICS IN MY FIELD
 <p> Importance of ethics and challenges in the audit industry </p>
+<li> Going into public accounting, conflict of interest comes up often. To be able to take sound decisions is important. </li>
+<li> Manage independence rules - Ensure that I don't own any interest, financial or non-financial, in the client for whom I conduct an audit. </li>
+<li> The ongoing training and development courses as part of the job should be done without comprimising mine and the company's integrity. </li>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Ethical%20Decision%20Making/Ethical%20Dilemmas%20&%20Decision%20Making.md#ethical-decision-making'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
