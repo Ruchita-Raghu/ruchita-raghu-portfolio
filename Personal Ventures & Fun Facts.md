@@ -81,4 +81,4 @@
 <li> Made the language relevant for the children to use with family and friends </li>
 <img src ="https://user-images.githubusercontent.com/116829793/228992096-c15b7b33-4ac3-43e3-97ea-31b81338324d.jpg" height=450 width=470> 
 <br>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#fun-experiences-and-snapshots-from-exciting-ventures'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#globalinter-cultural-experiences--community-engagement'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
