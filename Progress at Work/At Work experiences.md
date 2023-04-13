@@ -3,13 +3,12 @@
 # Work Experience & Career Paths
 <h2> Summary </h2>
 My degrees in Finance and Business Analytics have exposed me to several different sectors in the real world. I wish to work in a role which provides an intersection between IT and Finance. My aim is to work in different organizations and help them utilize the power of new and emerging technology to make better financial decisions.
-I have experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. I gained leadership experience facilitating group tasks, teaching students, and running student organizations. I am confident about my excellent communication skills, interpersonal skills, and proficiency in four languages.
+I have experience in financial/operational audits, IT audits, data analysis, building dashboards, business consulting, and people management. I gained leadership experience facilitating group tasks, teaching students, and running student organizations. I am confident about my communication, interpersonal skills, and proficiency in four languages.
 With a focus on corporate finance, I want to leverage my analytics and technology skills to build effective and efficient decision making systems at workplaces. 
-
-<p> Here is a glimpse of my professional career start at DU!! </p>
-
+<br>
+<br>
+<p> Here is a glimpse of my professional career start at DU. </p>
 <img src="https://user-images.githubusercontent.com/116829793/230811664-07d9f493-b4c5-411d-b6e7-892e0f7e764f.png">
-
 <h2> Internship Positions </h2>
 <b> EY FSO Business Consulting (Technology Risk) Intern </b>
 <p> <b> Ernst & Young US, LLP (Denver, CO) </b>
@@ -69,6 +68,7 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 
 <br>
 <h2> Leadership positions </h2>
+
 <b> President (Finance Club, Reiman School of Finance) </b>
 <p> <b> Events Chair (Finance Club) </b> </p>
 <p> <b> International Student Affairs Chair (Finance Club) </b> </p>
@@ -80,13 +80,13 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <li> Microsoft Office Specialist Associate 2019 - Advanced Excel, Excel, Word, PowerPoint, Access </li>
 <li> Certified in Google Analytics </li>
 <li> Certificate of Completion - Introduction to Change Management </li>
-<li> Proficiency in using SQL, SQL Server (SSMS, SSAS, SSIS), Visual Studio, PowerBI, Python, R, VBA, Zoho Analytics </li>
+<li> Proficiency in using SQL, SQL Server (SSMS, SSAS, SSIS), Visual Studio, PowerBI, Python, R, VBA, Zoho Analytics, Tableau, JMP, Stata </li>
 <br>
 <h2> Lessons from work </h2>
-<p> My biggest lesson from all work experiences has been an effort to learn. No matter the rank or role, learning should never stop. I found it highly important and useful to take notes regarding everything I do. It starts with learning about the company through internal sites, meeting minutes, informational interviews and networking, and self-educating activities. </p>
+<p> An effort to learn. No matter the rank or role, learning should never stop. I found it highly important and useful to take notes regarding everything - learning about the company through internal sites, meeting minutes, informational interviews, networking, and self-educating activities. </p>
 <li> One of my companies followed EOS, Entrepreneurial Operating System, a people operating system not computer operating system. Just to understand the system, its benefits, and how the company worked with it, I created a notes sheet. </li>
-<li> Learning platforms at organizations are really beneficial for our professional skills development. During internships, I completed courses and obtained certifications relating to my work.</li>
-<li> Notes during networking are vital to value someone's time and advice. One of the companies I was wanting to join had a virtual networking event. I made use of the event to best understand the organization and its people. Here is how I encourage everyone to keep the networking effort going. </li>
+<li> Learning platforms at organizations are really beneficial for our professional skills development. During internships, I completed courses and obtained certifications.</li>
+<li> Notes during networking are vital to value someone's time and advice. I encourage everyone to keep the networking effort going. </li>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Progress%20at%20Work/Ruchita%20-%20Certifications%20at%20Work.zip'> <img src="https://user-images.githubusercontent.com/116829793/226446645-0bc4771d-5658-406a-9c4f-b03d6ca6b0b9.png" width=270 /> </a>
 <br>
 <br>
