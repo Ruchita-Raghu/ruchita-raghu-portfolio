@@ -2,12 +2,12 @@
 ## RUCHITA RAGHUNANDAN | UNIVERSITY OF DENVER | DISTINCTION IN BUSINESS ANALYTICS | SPRING 2023
 #### Welcome! My name is Ruchita Raghunandan! I am a senior at the University of Denver, pursuing Bachelors of Science in Business Administration, majoring in Finance and Business Information & Analytics. Find below my Daniels Distinction Portfolio with details about my work, interests, skills and more!
 <h3> BACKGROUND </h3>
-<p>  I was born in Mysuru, Karnataka, India. Spent my childhood and completed my schooling in New Delhi. Today, I am in the United States to pursue my higher education and establish my professional career. I am an ambitious and hard working person, ready to accept new opportunities and explore everything that life has to offer to me. I am driven, self-motivated, and disciplined individual. I am also a professional dancer trained in Bharatnatyam (Indian Classical Dance form). In my free time, I spend time with family or with hobbies - cooking, dancing, reading, hiking, walking, biking and more! </p>
+<p>  I was born in Mysuru, Karnataka, India. Spent my childhood and completed my schooling in New Delhi. Today, I am in the United States to pursue my higher education and establish my professional career. I am an ambitious and hard working person, ready to accept new opportunities and explore everything that life has to offer to me. I am a driven, self-motivated, and disciplined individual. I am also a professional dancer trained in Bharatnatyam (Indian Classical Dance form). In my free time, I spend time with family or with hobbies - cooking, dancing, reading, hiking, walking, biking and more! </p>
 <p> This portfolio is a collection of the several opportunities I took part in over the last few years. Various kinds of experiential projects have given exposure to various disciplines, personal and professional. Navigate below to read more! </p>
 
 <h3> EDUCATION </h3>
 <b> University of Denver, Daniels College of Business, Bachelor of Science Business Administration </b>
-<li> Finance, Business Information & Analytics (STEM designated with OPT extension) </li>
+<li> Finance, Business Information & Analytics </li>
 <li> University Honors Program </li>
 <li> Chancellor’s Scholarship recipient, Aegon Transamerica FND Scholar, Dean’s List, Hornbeck Scholar </li>
 <li> GPA – 3.97 </li>
