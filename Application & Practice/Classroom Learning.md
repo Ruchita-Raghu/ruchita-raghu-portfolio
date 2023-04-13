@@ -32,7 +32,7 @@ The use of R was for a financial modelling class.
 #### SQL
 Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/Visual Studio applications. SQL used to create databases, data marts, query databases etc.
 
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md'> <img src="https://user-images.githubusercontent.com/116829793/226754696-7420f19d-533b-4b2d-97ef-e330638e1b09.png" width=350 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/EcoProducts%2C%20Inc%20OLTP%20%26%20OLAP/Database%20Management%20ReadMe.md#foundations-of-information-management'> <img src="https://user-images.githubusercontent.com/116829793/226754696-7420f19d-533b-4b2d-97ef-e330638e1b09.png" width=350 /> </a>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Application%20%26%20Practice/Classroom%20Learning.md#comprehensive-undergraduate-program-and-student-development'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
