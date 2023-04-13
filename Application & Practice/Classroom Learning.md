@@ -3,7 +3,7 @@
 <p> Find below a compilation of classwork from college. The diverse and comprehensive coursework enhanced several skills for me. It has improved my critical thinking, problem solving, creative thinking, communication, and teamwork. </p>
 
 ## PART 1 - ANALYTICS
-<p> The Business Information & Analytics department at the Daniels College of Business has formed a strong and rigorous undergraduate program. It exposed students to exxtensive coding work. The best part was that the focus was not the programming language and its syntax. The aim was to make us better decision makers, learn how to work with data, what data in front us means, and learn application of technical skills across sectors in business. </p>
+<p> The Business Information & Analytics department at the Daniels College of Business has formed a strong and rigorous undergraduate program. It exposed students to extensive coding work. The best part was that the focus was not the programming language and its syntax. The aim was to make us better decision makers, learn how to work with data, what data in front us means, and learn application of technical skills across sectors in business. </p>
 
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Application%20%26%20Practice/Ruchita%20-%20Analytics%20Code%20Samples.zip'><img src="https://user-images.githubusercontent.com/116829793/227267758-3ce1970d-8303-4f13-8d6a-7719fe196a3c.png" width=260> </a>
 
@@ -55,11 +55,11 @@ Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/
    </ul>
 <li> <i> Sustainability </li>  </i>
    <ul>
-   <li> Concepts - Distinction between climate change and golbal warming, geography concepts, issues at ground level, effects felt at city level, predictions about the future, human and business response, news and trends studied. </li>
+   <li> Concepts - Distinction between climate change and global warming, geography concepts, issues at ground level, effects felt at city level, predictions about the future, human and business response, news and trends studied. </li>
    </ul>
 <li> <i> History - World War I </li> </i>
    <ul>
-   <li> Exposure to WW1 facts and happenings, WW1 literature, exploration of artifacts and databases, reading stories and government documents, studying all aspects of the war - at the warfield and at home. Studied poilitical, cultural, historical, geographical, and social implications of the war on everyone. </li>
+   <li> Exposure to WW1 facts and happenings, WW1 literature, exploration of artifacts and databases, reading stories and government documents, studying all aspects of the war - at the warfield and at home. Studied political, cultural, historical, geographical, and social implications of the war on everyone. </li>
    <li> Assignments - Read and interpret posters of and about the war, access databases to extract information, learn use of primary sources of information in history, academic papers about the war and its happenings. </li>
    </ul>
 <li> <i> Geography - Global Environment Change </li> </i>
@@ -81,13 +81,13 @@ Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/
    </ul>
 <li> Managerial Accounting for Decision Making </li>
    <ul>
-   <p> Interpreting financial information, understanding cost behavior, techniques and uses of cost-volume-profit analysis, short-term decision making, cost accumulation and tracing, cost allocation, preparing and using masterbudget. </p>
+   <p> Interpreting financial information, understanding cost behavior, techniques and uses of cost-volume-profit analysis, short-term decision making, cost accumulation and tracing, cost allocation, preparing and using master budget. </p>
    <p> Projects involved using direct/indirect costs, fixed/variable costs, interpret and make managerial decisions regarding production problems and bottlenecks, perform variance analysis and prepare sub-budgets for executives. </p>
    </ul>
 <li> Financial Decision Making </li>
    <ul>
    <p> Concepts - financial analysis, time value of money, capital budgeting, securities valuations, weighted average cost of capital, working capital, dividend policy </p>
-   <p> Technical skills and assignments include calculating present and future value in multiple ways, calcualte ratios using information from financial statements, deriving operating and financial leverage, determining company and management objectives, making investment decisions, capital structures etc.  </p>
+   <p> Technical skills and assignments include calculating present and future value in multiple ways, calculate ratios using information from financial statements, deriving operating and financial leverage, determining company and management objectives, making investment decisions, capital structures etc.  </p>
    </ul>
 <li> Multinational Financial Management </li>
    <ul>
@@ -96,7 +96,7 @@ Extensive exposure to using SQL and T-SQL in Access databases and on SQL Server/
    </ul>
 <li> Introduction to Marketing </li>
    <ul>
-   <p> Concepts - definition and fundamentals of the marketing field, mareting principles, how to understand customer needs, determining target market, estimating costs and preparing marketing budget, measuring customer satisfaction etc. </p>
+   <p> Concepts - definition and fundamentals of the marketing field, marketing principles, how to understand customer needs, determining target market, estimating costs and preparing marketing budget, measuring customer satisfaction etc. </p>
    <p> Projects and assignments helped create marketing plan for a real business - began with executive summary, establish business problem and opportunity, determine target market, marketing budget and so on. </p>
    </ul>
 <li> Leading High Performance Organizations </li>
