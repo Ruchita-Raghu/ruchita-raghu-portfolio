@@ -65,7 +65,7 @@
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#globalinter-cultural-experiences--community-engagement'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
 ### SHIVOHAM SCHOOL OF DANCE
-<p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. ALong with college workload, attended weekly practice sessions. </p>
+<p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. Along with college workload, attended weekly practice sessions. </p>
 <li> Developed ability to communicate with any language or community through the means of dance - express feelings from the entire spectrum, represent challenges common to all, and help form a bridge with fellow artists to join the world </li>
 <li> Kept alive my culture and tradition </li>
 <li> An opportunity to showcase my country's heritage in a different country </li>
