@@ -1,4 +1,5 @@
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#daniels-distinction-portfolio'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio#daniels-distinction-portfolio'><img src="https://user-images.githubusercontent.com/116829793/226443427-94c192b2-3c02-4a29-a2a8-e1b26aca6cd7.png" width=200> </a> <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'><img src="https://user-images.githubusercontent.com/116829793/231643302-1d9707b8-ac67-423c-9a77-0d03f2c21459.png" width=230> </a>
+
 # TEACHING EXPERIENCES
 
 ### Microsoft Senior & Junior Teaching Assistant, September 2020 - June 2023
