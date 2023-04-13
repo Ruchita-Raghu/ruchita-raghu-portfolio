@@ -87,7 +87,7 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <li> One of my companies followed EOS, Entrepreneurial Operating System, a people operating system not computer operating system. Just to understand the system, its benefits, and how the company worked with it, I created a notes sheet. </li>
 <li> Learning platforms at organizations are really beneficial for our professional skills development. During internships, I completed courses and obtained certifications relating to my work.</li>
 <li> Notes during networking are vital to value someone's time and advice. One of the companies I was wanting to join had a virtual networking event. I made use of the event to best understand the organization and its people. Here is how I encourage everyone to keep the networking effort going. </li>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/tree/main/Progress%20at%20Work'> <img src="https://user-images.githubusercontent.com/116829793/226446645-0bc4771d-5658-406a-9c4f-b03d6ca6b0b9.png" width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/raw/main/Progress%20at%20Work/Ruchita%20-%20Certifications%20at%20Work.zip'> <img src="https://user-images.githubusercontent.com/116829793/226446645-0bc4771d-5658-406a-9c4f-b03d6ca6b0b9.png" width=270 /> </a>
 <br>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
