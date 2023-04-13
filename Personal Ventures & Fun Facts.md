@@ -31,6 +31,8 @@
 <li> Show and portray Indian culture - dresses, food, routines, schools, heritage and culture! </li>
 
 <img src ="https://user-images.githubusercontent.com/116829793/202885331-dbadcf83-ce1c-42cb-aa69-c5e60374c863.jpg" height=280 width=280> <img src ="https://user-images.githubusercontent.com/116829793/202885340-d252ac0f-aa99-45a1-af53-ccb556d62e7b.jpg" height=280 width=350> <img src ="https://user-images.githubusercontent.com/116829793/202885414-40478773-1513-4363-b443-646afb58232f.png" height=280 width=220>
+<br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#globalinter-cultural-experiences--community-engagement'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
 #### DANCE
 <p> Bharatnatyam is an Indian Classical Dance Form. A highly technical and intensive training is required for a student to excel in this art form. I have been learning this dance form since the age of 5. I have continued my training under different teachers. I have completed my graduation in this dance form as well. </p>
@@ -59,6 +61,8 @@
 
 <img src ="https://user-images.githubusercontent.com/116829793/202885321-00aa6a32-f0ed-43bf-a500-5d8f9f1a5b8a.jpg" height=280 width=250> <img src ="https://user-images.githubusercontent.com/116829793/202885350-211fbf9e-e777-4c35-b57c-609f8a55fdd6.jpg" height=280 width=300>
 <img src ="https://user-images.githubusercontent.com/116829793/202885371-674ec65a-b59a-4019-b4ae-36047fe534f9.jpg" height=280 width=330>
+<br>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Personal%20Ventures%20&%20Fun%20Facts.md#globalinter-cultural-experiences--community-engagement'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 
 ### SHIVOHAM SCHOOL OF DANCE
 <p> After coming to US in 2019, continued my dance classes with the Shivoham School of Dance. ALong with college workload, attended weekly practice sessions. </p>
