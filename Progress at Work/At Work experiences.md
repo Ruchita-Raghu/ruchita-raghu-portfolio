@@ -65,7 +65,7 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <br>
 <b> Microsoft Senior Teaching Assistant (Daniels College of Business) </b>
 <p> <b> Athletic Tutor (Daniels College of Business, Atheltics Department) </b> </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md'> <img src="https://user-images.githubusercontent.com/116829793/226445545-01348222-4a27-4028-b396-6784278b0dcb.png" width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Teaching%20%26%20Education/Microsoft%20TA%20%26%20Athletic%20Tutor%20Roles.md#teaching-experiences'> <img src="https://user-images.githubusercontent.com/116829793/226445545-01348222-4a27-4028-b396-6784278b0dcb.png" width=230 /> </a>
 
 <br>
 <h2> Leadership positions </h2>
@@ -73,7 +73,7 @@ With a focus on corporate finance, I want to leverage my analytics and technolog
 <p> <b> Events Chair (Finance Club) </b> </p>
 <p> <b> International Student Affairs Chair (Finance Club) </b> </p>
 <p> <b> Director of Diversity (Undergraduate Women in Business) </b> </p>
-<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md'> <img src="https://user-images.githubusercontent.com/116829793/226445931-b1a073c2-feb7-4ffb-891e-5b1faf2dc625.png" width=230 /> </a>
+<a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Leadership%20&%20People%20Management/Student%20Clubs%20LeadershipOrganizations.md#club-leadership'> <img src="https://user-images.githubusercontent.com/116829793/226445931-b1a073c2-feb7-4ffb-891e-5b1faf2dc625.png" width=230 /> </a>
 <br>
 <a href='https://github.com/Ruchita-Raghu/ruchita-raghu-portfolio/blob/main/Progress%20at%20Work/At%20Work%20experiences.md#work-experience--career-paths'> <img src="https://user-images.githubusercontent.com/116829793/226444715-037051b9-7b32-495b-a068-1e3ff700ac62.png" width=230 /> </a>
 <h2> Skills & Certifications </h2>
